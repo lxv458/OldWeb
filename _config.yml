@@ -1,24 +1,24 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 冷雪
+subtitle: Xue Leng
+description: Welcome to my home!
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: Ph.D in ZJU
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: SDN / NFV
+url: "http://lxv458.github.io"
 
 # Comment
-comment:
-    disqus: leopard
+#comment:
+ #   disqus: leopard
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: Cold_Xue 
+    github: lxv458
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: lengxue_2015@outlook.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
@@ -27,9 +27,9 @@ baidu:
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
-ga:
-    id: UA-84134159-3   
-    host: auto  
+#ga:
+ #   id: UA-84134159-3   
+ #   host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
@@ -53,13 +53,13 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: 简历
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: Resume, description: archive, url: '/archive'}   
+    - {title: Activities, description: tags, url: '/tags'}      
+    - {title: About Me, description: about, url: '/about'}      
     
 
 # Pagination
