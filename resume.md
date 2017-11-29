@@ -1,6 +1,14 @@
 ---
 layout: default
-title: resume in English
+title: 简历
 ---
 
-Resume in English!
+中文简历!
+### Experience
+  * cisco
+
+  * 东软
+
+  * 学生会
+
+  * 研究生会
