@@ -2,8 +2,8 @@
 layout: page
 title: 简历 
 ---
-
-中文简历！
+ 
+哈哈哈哈哈哈 ！
 ### Experience
   * cisco
 
