@@ -29,10 +29,10 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Experience
-  * cisco
-  * 东软
-  * 学生会
-  * 研究生会
+  *cisco
+  *东软
+  *学生会
+  *研究生会
 
 ### Honor
   * 荣誉称号
