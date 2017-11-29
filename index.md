@@ -1,4 +1,6 @@
-Resume
+---
+title: Resume
+---
 
 ### Education
 
