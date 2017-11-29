@@ -35,7 +35,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
   * 学生会
 
-  * 研究生会
+  * 研究生会
 
 ### Honor
   * 荣誉称号
