@@ -3,67 +3,45 @@ title: Resume
 ---
 
 ### Education
+  * HEU
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  * ZJU
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Experience
   * cisco
 
-  * 东软
+  * East-Software
 
-  * 学生会
+  * Student Union
 
-  * 研究生会
+  * Postgraduate Association
 
 ### Honor
-  * 荣誉称号
+  * honorary title
   
 ### Awards
-  * 奖学金
+  * scholarship
 
-  * 比赛
+  * competition
 
 ### Project
-  * 国重
+  * National Key Research and Developement
 
-  * 省重点
+  * Zhejiang Province
 
   * SDNKeeper
 
   * RuleScope
  
-### Publication
-  TON
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lxv458/lengxue.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Publication 
+  1. TON
 
 ### Activity
-  * 雪雕大赛志愿者
+  * snow sculpture volunteer 
 
-  * 三下乡
+  * three-dimension social practice 
 
-  * 运动会
+  * sports meeting
 
-  * 文艺晚会
- 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  * Cultural Show
