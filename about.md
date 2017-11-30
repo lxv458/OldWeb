@@ -25,13 +25,12 @@ title: 简历
 	  </tr>
 	  <tr>
 		  <td align="left">三好学生 哈工程</td>
-		  <td align="right">2015-08-18</td>
+		  <td align="right"><i class="icon-archive"></i> 2015-08-18</td>
 	  </tr>
   </table>
 
 ### 奖项
-  * 奖学金                             2013-05-21
-
+  * 奖学金
   * 比赛
 
 ### 项目
