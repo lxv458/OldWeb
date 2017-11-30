@@ -211,7 +211,7 @@ pre code {
 
 table {
   color: #333333;
-  font-size: 1.2em;
+  font-size: 1em;
   text-align: center;
   line-height: 40px;
   border: none #363636;
@@ -237,7 +237,7 @@ th:first-child, td:first-child {
 }
 
 tbody td {
-  font-size: 1.2em; 
+  font-size: 1em; 
   border: none #363636;
 }
 td:last-child {

@@ -19,14 +19,14 @@ title: 简历
 
 ### 荣誉称号
   <table>
- 	<tr>
-	  <td align="left">优秀毕业生 哈工程</td>
-	  <td align="right">2016-12-12</td>
-	 </tr>
-	 <tr>
-	  <td align="left"三好学生 哈工程</td>
-	  <td align="right">2015-08-18</td>
-	 </tr>
+	  <tr>
+		  <td align="left">优秀毕业生 哈工程</td>
+		  <td align="right">2016-12-12</td>
+	  </tr>
+	  <tr>
+		  <td align="left"三好学生 哈工程</td>
+		  <td align="right">2015-08-18</td>
+	  </tr>
   </table>
 
 ### 奖项
