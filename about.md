@@ -28,12 +28,14 @@ title: 简历
 		  <td align="right"><i class='social fa fa-weibo'></i> [2015-08-18](http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg)</td>
 	  </tr>
   </table>
-[2015-08-18](http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg)
+  [2015-08-18](http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg)
+  [参考链接](http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg)
 
 ### 奖项
   * 奖学金
 
   * 比赛
+  [参考链接](http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg)
 
 ### 项目
   * 国重
