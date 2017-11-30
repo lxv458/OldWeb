@@ -214,7 +214,7 @@ table {
   font-size: .9em;
   text-align: center;
   line-height: 40px;
-  border: 2px solid #363636;
+  border: 1px solid #363636;
   width: 90%;
   margin: 50px auto; }
 
@@ -238,11 +238,11 @@ th:first-child, td:first-child {
 
 tbody td {
   font-size: .85em; 
-  border: 1px solid #363636;
+  border: none #363636;
 }
 td:last-child {
   padding-right: 10px; 
-  border: 1px solid #363636;
+  border: none #363636;
 }
 
 /*pager start----------------*/
