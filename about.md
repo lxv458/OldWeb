@@ -28,6 +28,7 @@ title: 简历
 		  <td align="right"><i class="icon-archive"></i> 2015-08-18</td>
 	  </tr>
   </table>
+  ![优秀研究生干部](/images/leng/resume/excellent_leader_zju.jpg)
 
 ### 奖项
   * 奖学金
