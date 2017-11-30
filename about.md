@@ -25,7 +25,7 @@ title: 简历
 	  </tr>
 	  <tr>
 		  <td align="left">三好学生 哈工程</td>
-		  <td align="right"><i class='social fa fa-weibo'></i> <a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg">2015-08-18</a></td>
+		  <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2015-08-18</td>
 	  </tr>
   </table>
 
