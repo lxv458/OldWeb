@@ -19,14 +19,14 @@ title: 简历
 
 ### 荣誉称号
   <table>
-	  <tr>
-		  <td align="left"><ul><li>优秀毕业生 哈工程</li></ul></td>
-		  <td align="right">2016-12-12</td>
-	  </tr>
-	  <tr>
-		  <td align="left"><ul><li>三好学生 哈工程</li></ul></td>
-		  <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2015-08-18</td>
-	  </tr>
+    <tr>
+        <td align="left"><ul><li>优秀毕业生 哈工程</li></ul></td>
+        <td align="right">2016-12-12</td>
+    </tr>
+    <tr>
+        <td align="left"><ul><li>三好学生 哈工程</li></ul></td>
+        <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2015-08-18</td>
+    </tr>
   </table>
 
 ### 奖项
