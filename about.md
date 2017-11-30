@@ -25,10 +25,9 @@ title: 简历
 	  </tr>
 	  <tr>
 		  <td align="left">三好学生 哈工程</td>
-		  <td align="right"><i class='social fa fa-picture fa-2x'></i> 2015-08-18</td>
+		  <td align="right"><i class='social fa fa-weibo fa-2x'></i> 2015-08-18</td>
 	  </tr>
   </table>
-  ![优秀研究生干部](/images/leng/resume/excellent_leader_zju.jpg)
 
 ### 奖项
   * 奖学金
