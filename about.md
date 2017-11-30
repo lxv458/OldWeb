@@ -18,20 +18,16 @@ title: 简历
   * 研究生会
 
 ### 荣誉称号
-  |x  |b  |
-  |:-------------------------|------:|
-  |* 荣誉称号 <br> 哈工程 |  2016-12-12|
-  |* 三好学生 <br> 哈工程 |  2015-08-18|
-  <table >
+  <table>
  	<tr>
-	  <td align="left">荣誉称号 <br> 哈工程</td>
+	  <td align="left">优秀毕业生 哈工程</td>
 	  <td align="right">2016-12-12</td>
 	 </tr>
 	 <tr>
-	  <td align="left">衣服</td>
-	  <td align="right">$241.10</td>
+	  <td align="left"三好学生 哈工程</td>
+	  <td align="right">2015-08-18</td>
 	 </tr>
-</table>
+  </table>
 
 ### 奖项
   * 奖学金
