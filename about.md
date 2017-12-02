@@ -26,9 +26,24 @@ title: 简历
 </table>
 
 ### 教育经历
- * 哈尔滨工程大学
- 
- * 浙江大学
+<table>
+	<tr>
+		<td align="left"><ul><li>浙江大学&nbsp;计算机科学与技术学院&nbsp;博士</li></ul></td>
+		<td align="right">2015&nbsp;-&nbsp;Present</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>研究方向：&nbsp;SDN/NFV网络安全研究&nbsp;指导教师：&nbsp;陈焰</li></ul></td>
+		<td align="right"></td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>哈尔滨工程大学&nbsp;计算机科学与技术学院&nbsp;学士</li></ul></td>
+		<td align="right">2011&nbsp;-&nbsp;2015</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>成绩排名：&nbsp;2/159&nbsp;平均分：&nbsp;91.19</li></ul></td>
+		<td align="right"></td>
+	</tr>
+</table>
 
 ### 经历
  * cisco实习
@@ -42,7 +57,7 @@ title: 简历
 ### 荣誉称号
 <table>
 	<tr>
-		<td align="left"><ul><li>浙江大学大学&nbsp;优秀研究生</li></ul></td>
+		<td align="left"><ul><li>浙江大学&nbsp;优秀研究生</li></ul></td>
 		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Dec.2017</td>
 	</tr>
 	<tr>
@@ -63,7 +78,7 @@ title: 简历
 	</tr>
 	<tr>
 		<td align="left"><ul><li>第六届国际雪雕大赛&nbsp;优秀志愿者</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a>Jan.2014</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Jan.2014</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&nbsp;三好学生标兵(10/12000)</li></ul></td>
@@ -125,7 +140,7 @@ title: 简历
  * RuleScope
  
 ### 科研成果
-  1. TON
+  1. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, **Xue Leng**, "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in ACM/IEEE Transaction on Networking (ToN), Volume 25, Issue 4, Aug. 2017.
 
 ### 课余活动
  * 雪雕大赛志愿者
