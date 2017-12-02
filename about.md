@@ -4,10 +4,13 @@ title: 简历
 ---
 <table>
 	<tr valign="middle">
+		<td align="center" colspan="3"></td>
+		<td align="center" rowspan="4" style="vertical-align:middle"><img src="/images/leng/resume/myself.jpg" width="140" height="180" /></td>
+	</tr>>
+	<tr valign="middle">
 		<td align="left">冷&nbsp;&nbsp;雪</td>
 		<td align="left">中共党员</td>
 		<td align="left"></td>
-		<td align="center" rowspan="3" style="vertical-align:middle"><img src="/images/leng/resume/excellent_leader_zju.jpg" width="130" height="160" /></td>
 	</tr>
 	<tr valign="middle">
 		<td align="left">浙江大学</td>
