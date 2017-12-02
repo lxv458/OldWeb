@@ -2,20 +2,44 @@
 layout: page
 title: 简历 
 ---
+ 冷  雪    中共党员
+ 浙江大学 计算机科学与技术学院 博士
+ 导  师：陈焰
+ 联系方式：(86)130-7181-1520
+ 邮   箱：lengxue_2015@outlook.com
+ <table>
+ 	<tr>
+ 		<td align="left" rowspan="5">    </td>
+ 		<td align="left">冷  雪    中共党员</td>
+ 		<td align="left" rowspan="5">    </td>
+ 	</tr>
+ 	<tr>
+ 		<td align="left">浙江大学   计算机科学与技术学院   博士</td>
+ 	</tr>
+ 	<tr>
+ 		<td align="left">导  师：<a href="http://www.cs.northwestern.edu/~ychen/">陈  焰</a></td>
+ 	</tr>
+ 	<tr>
+ 		<td align="left">联系方式：(86)130-7181-1520</td>
+ 	</tr>
+ 	<tr>
+ 		<td align="left">邮   箱：lengxue_2015@outlook.com</td>
+ 	</tr>
+ </table>
 
 ### 教育经历
-  * 哈尔滨工程大学
+ * 哈尔滨工程大学
 
-  * 浙江大学
+ * 浙江大学
 
 ### 经历
-  * cisco实习
+ * cisco实习
 
-  * 东软实习
+ * 东软实习
 
-  * 学生会
+ * 学生会
 
-  * 研究生会
+ * 研究生会
 
 ### 荣誉称号
   <table>
@@ -30,27 +54,27 @@ title: 简历
   </table>
 
 ### 奖项
-  * 奖学金
+ * 奖学金
 
-  * 比赛
+ * 比赛
 
 ### 项目
-  * 国重
+ * 国重
 
-  * 省重点
+ * 省重点
 
-  * SDNKeeper
+ * SDNKeeper
 
-  * RuleScope
+ * RuleScope
  
 ### 科研成果
   1. TON
 
 ### 课余活动
-  * 雪雕大赛志愿者
+ * 雪雕大赛志愿者
 
-  * 三下乡
+ * 三下乡
 
-  * 运动会
+ * 运动会
 
-  * 文艺晚会
+ * 文艺晚会
