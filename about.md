@@ -23,13 +23,13 @@ title: 简历
 		<td align="left">邮&nbsp;&nbsp;箱：lengxue_2015@outlook.com</td>
 	</tr>
 	<tr>
-		<td colspan="3"> </td>
+		<td colspan="3"> d</td>
 	</tr>
 	<tr>
-		<td colspan="3"> </td>
+		<td colspan="3"> d</td>
 	</tr>
 	<tr>
-		<td colspan="4"> </td>
+		<td colspan="4"> d</td>
 	</tr>
 </table>
 
