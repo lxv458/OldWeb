@@ -32,7 +32,7 @@ title: 简历
 		<td align="right">2015年9月&nbsp;-&nbsp;至今</td>
 	</tr>
 	<tr>
-		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN/NFV网络安全研究 &emsp;<strong>导&emsp;师：</strong>&nbsp;陈&emsp;焰</td>
+		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN/NFV网络安全研究 &emsp;&emsp;&emsp;&emsp;<strong>导&emsp;师：</strong>&nbsp;陈&emsp;焰</td>
 		<td align="right"></td>
 	</tr>
 	<tr>
@@ -40,7 +40,7 @@ title: 简历
 		<td align="right">2011年9月&nbsp;-&nbsp;2015年6月</td>
 	</tr>
 	<tr>
-		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>成绩排名：</strong>&nbsp;2/159 &emsp;<strong>平均分：</strong>&nbsp;91.19</td>
+		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>成绩排名：</strong>&nbsp;2/159 &emsp;&emsp;&emsp;&emsp;<strong>平均分：</strong>&nbsp;91.19</td>
 		<td align="right"></td>
 	</tr>
 </table>
