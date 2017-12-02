@@ -7,7 +7,7 @@ title: 简历
 		<td align="left">冷&nbsp;&nbsp;雪</td>
 		<td align="left">中共党员</td>
 		<td align="left"></td>
-		<td align="center" rowspan="3" valign="middle">垂直居中</td>
+		<td align="center" rowspan="3" style="vertical-align:middle">垂直居中</td>
 	</tr>
 	<tr valign="middle">
 		<td align="left">浙江大学</td>
