@@ -2,25 +2,24 @@
 layout: page
 title: 简历 
 ---
- 冷  雪    中共党员
- 浙江大学 计算机科学与技术学院 博士
- 导  师：陈焰
- 联系方式：(86)130-7181-1520
- 邮   箱：lengxue_2015@outlook.com
+
  <table>
  	<tr>
- 		<td align="left" rowspan="2">    </td>
- 		<td align="left">冷  雪</td>
+ 		<td align="left" rowspan="3">&nbsp;&nbsp;</td>
+ 		<td align="left">冷&nbsp;&nbsp;雪</td>
  		<td align="left">中共党员</td>
- 		<td align="left">浙江大学</td>
- 		<td align="left" colspan="2">计算机科学与技术学院</td>
- 		<td align="left">博士生</td>
- 		<td align="left" rowspan="2">    </td>
+ 		<td align="left"></td>
+ 		<td align="left" rowspan="3">&nbsp;&nbsp;</td>
  	</tr>
  	<tr>
- 		<td align="left">导  师：<a href="http://www.cs.northwestern.edu/~ychen/">陈  焰</a></td>
- 		<td align="left" colspan="2">联系方式：(86)130-7181-1520</td>
- 		<td align="left" colspan="2">邮   箱：lengxue_2015@outlook.com</td>
+ 		<td align="left">浙江大学</td>
+		<td align="left">计算机科学与技术学院</td>
+ 		<td align="left">博士生</td> 		
+ 	</tr>
+ 	<tr>
+ 		<td align="left">导&nbsp;&nbsp;师：<a href="http://www.cs.northwestern.edu/~ychen/">陈&nbsp;&nbsp;焰</a></td>
+ 		<td align="left">联系方式：(86)130-7181-1520</td>
+ 		<td align="left">邮&nbsp;&nbsp;箱：lengxue_2015@outlook.com</td>
  	</tr>
 
  </table>
