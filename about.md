@@ -6,7 +6,7 @@ title: 简历
 	<tr>
 		<td align="center" colspan="3"> </td>
 		<td align="center" rowspan="4" style="vertical-align:middle"><img src="/images/leng/resume/myself.jpg" width="140" height="180" /></td>
-	</tr>>
+	</tr>
 	<tr>
 		<td align="left">冷&nbsp;&nbsp;雪</td>
 		<td align="left">中共党员</td>
