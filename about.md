@@ -3,11 +3,11 @@ layout: page
 title: 简历 
 ---
  <table>
- 	<tr>
+ 	<tr valign="middle">
  		<td align="left">冷&nbsp;&nbsp;雪</td>
  		<td align="left">中共党员</td>
  		<td align="left"></td>
- 		<td align="center" valign="middle" rowspan="3" width="130" height="180">haha </td>
+ 		<td align="center" rowspan="3">haha </td>
  	</tr>
  	<tr>
  		<td align="left">浙江大学</td>
