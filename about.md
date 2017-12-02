@@ -5,7 +5,7 @@ title: 简历
 <table>
 	<tr>
 		<td align="center" colspan="3"> </td>
-		<td align="center" rowspan="4" style="vertical-align:middle"><img src="/images/leng/resume/myself.jpg" width="140" height="180" /></td>
+		<td align="center" rowspan="3" style="vertical-align:middle"><img src="/images/leng/resume/myself.jpg" width="140" height="180" /></td>
 	</tr>
 	<tr>
 		<td align="left">冷&nbsp;&nbsp;雪</td>
@@ -21,6 +21,7 @@ title: 简历
 		<td align="left">导&nbsp;&nbsp;师：<a href="http://www.cs.northwestern.edu/~ychen/">陈&nbsp;&nbsp;焰</a></td>
 		<td align="left">联系方式：(86)130-7181-1520</td>
 		<td align="left">邮&nbsp;&nbsp;箱：lengxue_2015@outlook.com</td>
+		<td>  </td>>
 	</tr>
 </table>
 
