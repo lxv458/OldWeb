@@ -42,19 +42,78 @@ title: 简历
 ### 荣誉称号
 <table>
 	<tr>
-		<td align="left"><ul><li>优秀毕业生 哈工程</li></ul></td>
-		<td align="right">2016-12-12</td>
+		<td align="left"><ul><li>浙江大学大学&nbsp;优秀研究生</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Dec.2017</td>
 	</tr>
 	<tr>
-		<td align="left"><ul><li>三好学生 哈工程</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2015-08-18</td>
+		<td align="left"><ul><li>浙江大学&nbsp;优秀研究生干部</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Dec.2016</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>浙江大学计算机学院&nbsp;优秀运动员</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Dec.2015</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>哈尔滨工程大学&nbsp;优秀毕业生</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Jun.2015</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>黑龙江省&nbsp;三好学生</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Jun.2014</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>第六届国际雪雕大赛&nbsp;优秀志愿者</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a>Jan.2014</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>哈尔滨工程大学&nbsp;三好学生标兵(10/12000)</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Oct.2013</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>哈尔滨工程大学&nbsp;暑期社会实践先进个人(2次)</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Oct.2012,&nbsp;2013</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>哈尔滨工程大学&nbsp;优秀共青团干部</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> May.2013</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>哈尔滨工程大学&nbsp;优秀共青团员(3次)</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Jun.2012,&nbsp;2013,&nbsp;2015</td>
 	</tr>
 </table>
 
 ### 奖项
- * 奖学金
-
- * 比赛
+<table>
+	<tr>
+		<td align="left"><ul><li>国家奖学金</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Dec.2012</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>XX奖学金</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> May.2015</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>哈尔滨工程大学&nbsp;一等奖学金(7次)</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2011&nbsp;-&nbsp;2015</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>国家大学生创新科研立项</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Oct.2014</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>第九届“博创杯”全国大学生嵌入式物联网设计大赛&nbsp;黑龙江省二等奖</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Jun.2014</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>第五届“蓝桥杯”全国软件和信息技术专业人才大赛全国总决赛&nbsp;优秀奖</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Jun.2014</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>第三届“赛佰特杯”全国大学生物联网设计大赛&nbsp;国家三等奖</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Aug.2013</td>
+	</tr>
+</table>
 
 ### 项目
  * 国重
