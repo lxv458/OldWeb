@@ -25,9 +25,6 @@ title: 简历
 	<tr>
 		<td colspan="3">&nbsp;&nbsp;</td>
 	</tr>
-	<tr>
-		<td colspan="3">&nbsp;&nbsp;</td>
-	</tr>
 </table>
 
 ### 教育经历
