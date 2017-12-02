@@ -4,8 +4,9 @@ title: 简历
 ---
 <table>
 	<tr>
+		<td rowspan="4">&nbsp;&nbsp;</td>
 		<td align="center" colspan="3">&nbsp;&nbsp;</td>
-		<td align="center" rowspan="6" style="vertical-align:middle"><img src="/images/leng/resume/myself.jpg" width="140" height="180" /></td>
+		<td align="center" rowspan="4" style="vertical-align:middle"><img src="/images/leng/resume/myself.jpg" width="140" height="180" /></td>
 	</tr>
 	<tr>
 		<td align="left">冷&nbsp;&nbsp;雪</td>
