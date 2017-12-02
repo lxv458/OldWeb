@@ -2,10 +2,8 @@
 layout: page
 title: 简历 
 ---
-
  <table>
  	<tr>
- 		<td align="left" rowspan="3">&nbsp;&nbsp;</td>
  		<td align="left">冷&nbsp;&nbsp;雪</td>
  		<td align="left">中共党员</td>
  		<td align="left"></td>
@@ -21,7 +19,6 @@ title: 简历
  		<td align="left">联系方式：(86)130-7181-1520</td>
  		<td align="left">邮&nbsp;&nbsp;箱：lengxue_2015@outlook.com</td>
  	</tr>
-
  </table>
 
 ### 教育经历
