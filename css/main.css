@@ -215,7 +215,7 @@ table {
   text-align: center;
   line-height: 40px;
   border: none #363636;
-  width: 90%;
+  width: 98%;
   margin-left: 0px;
   margin: 0px auto; }
 
@@ -234,7 +234,7 @@ table thead tr th {
 }
 
 th:first-child, td:first-child {
-  padding: 0 15px 0 20px; 
+  padding: 0 0px 0 0px; 
 }
 
 tbody td {
