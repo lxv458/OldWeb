@@ -28,19 +28,19 @@ title: 简历
 ### 教育经历
 <table>
 	<tr>
-		<td align="left"><ul><li>浙江大学&nbsp;计算机科学与技术学院&nbsp;博士</li></ul></td>
+		<td align="left"><ul><li>浙江大学&emsp;计算机科学与技术学院&emsp;博士</li></ul></td>
 		<td align="right">2015&nbsp;-&nbsp;Present</td>
 	</tr>
 	<tr>
-		<td align="left">&emsp;&emsp;研究方向：&nbsp;SDN/NFV网络安全研究&nbsp;指导教师：&nbsp;陈焰</td>
+		<td align="left">&#9;研究方向：&emsp;SDN/NFV网络安全研究&#9;导师：&emsp;陈焰</td>
 		<td align="right"></td>
 	</tr>
 	<tr>
-		<td align="left"><ul><li>哈尔滨工程大学&nbsp;计算机科学与技术学院&nbsp;学士</li></ul></td>
+		<td align="left"><ul><li>哈尔滨工程大学&emsp;计算机科学与技术学院&emsp;学士</li></ul></td>
 		<td align="right">2011&nbsp;-&nbsp;2015</td>
 	</tr>
 	<tr>
-		<td align="left">&emsp;&emsp;成绩排名：&nbsp;2/159&nbsp;平均分：&nbsp;91.19</td>
+		<td align="left">&#9;成绩排名：&nbsp;2/159&#9;平均分：&nbsp;91.19</td>
 		<td align="right"></td>
 	</tr>
 </table>
@@ -52,7 +52,7 @@ title: 简历
 		<td align="right">May&nbsp;-&nbsp;Sep.2016</td>
 	</tr>
 	<tr>
-		<td align="left">&emsp;————为企业数据中心开发SDN控制器用于网络的灵活部署和管理</td>
+		<td align="left">&#9;----为企业数据中心开发SDN控制器用于网络的灵活部署和管理</td>
 		<td align="right"></td>
 	</tr>
 	<tr>
@@ -60,7 +60,7 @@ title: 简历
 		<td align="right">Jun&nbsp;-&nbsp;Aug.2014</td>
 	</tr>
 	<tr>
-		<td align="left">&emsp;————开发一套即时通讯软件，实现局域网内多用户的实时通讯</td>
+		<td align="left">&#9;----开发一套即时通讯软件，实现局域网内多用户的实时通讯</td>
 		<td align="right"></td>
 	</tr>
 	<tr>
@@ -72,13 +72,6 @@ title: 简历
 		<td align="right">Sep.2013&nbsp;-&nbsp;Jun.2014</td>
 	</tr>
 </table>
- * cisco实习
-
- * 东软实习
-
- * 学生会
-
- * 研究生会
 
 ### 荣誉称号
 <table>
