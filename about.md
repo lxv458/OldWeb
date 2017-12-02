@@ -146,13 +146,50 @@ title: 简历
 </table>
 
 ### 项目
- * 国重
-
- * 省重点
-
- * SDNKeeper
-
- * RuleScope
+<table>
+	<tr>
+		<td align="left"><ul><li>十三五&nbsp;国家重点研发计划&nbsp;网络空间安全专项</li></ul></td>
+		<td align="right" rowspan="3" style="vertical-align: text-top">2017年7月&nbsp;-&nbsp;2020年12月</td>
+	</tr>
+	<tr>
+		<td align="left">&emsp;&emsp;----作为核心成员负责项目(课题)的申请及完成工作</td>
+	</tr>
+	<tr>
+		<td align="left">&emsp;&emsp;----课题“SDN/NFV与NDN安全研究”牵头单位,主要负责SDN/NFV网络攻击主动防御机制的设计及系统实现，并通过试验网验证</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>浙江省重点研发计划&nbsp;云计算安全及服务系统研发及应用</li></ul></td>
+		<td align="right" rowspan="3" style="vertical-align: text-top">2017年7月&nbsp;-&nbsp;2020年6月</td>
+	</tr>
+	<tr>
+		<td align="left">&emsp;&emsp;----作为核心成员负责项目的申请及完成工作</td>
+	</tr>
+	<tr>
+		<td align="left">&emsp;&emsp;----项目“内生安全的云计算系统主动防御技术研究与应用”牵头单位,主要负责基于SDN的云环境中攻击主动防御机制的设计及系统实现</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>SDNKeeper</li></ul></td>
+		<td align="right" rowspan="2" style="vertical-align: text-top">2017年3月&nbsp;-&nbsp;2017年11月</td>
+	</tr>
+	<tr>
+		<td align="left">&emsp;&emsp;----应用于基于SDN的云环境的网络资源管控机制，可灵活管控网络资源，管控网络访问请求，有效抵御越权攻击</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>RuleScope</li></ul></td>
+		<td align="right" rowspan="2" style="vertical-align: text-top">2015年3月&nbsp;-&nbsp;2017年4月</td>
+	</tr>
+	<tr>
+		<td align="left">&emsp;&emsp;----SDN中流表正确性检测方法，可准确检测并定位出流表中存在的优先级错误和规则失效错误</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>局域网即时通讯软件</li></ul></td>
+		<td align="right">2014年8月&nbsp;-&nbsp;9月</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>酒店客房管理系统</li></ul></td>
+		<td align="right">2014年6月&nbsp;-&nbsp;7月</td>
+	</tr>
+</table>
  
 ### 科研成果
   1. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, **Xue Leng**, <a href="http://www.lengxue.space/images/leng/resume/RuleScope_ToN.pdf">"RuleScope: Inspecting Forwarding Faults for Software-Defined Networking"</a>, in ACM/IEEE Transaction on Networking (ToN), Volume 25, Issue 4, Aug. 2017.
