@@ -159,7 +159,7 @@ title: 简历
 	</tr>
 	<tr>
 		<td align="left"><ul><li>浙江省重点研发计划&nbsp;云计算安全及服务系统研发及应用</li></ul></td>
-		<td align="right" rowspan="3" style="vertical-align: text-top">2017.7月&nbsp;-&nbsp;2020.6</td>
+		<td align="right" rowspan="3" style="vertical-align: text-top">2017.7&nbsp;-&nbsp;2020.6</td>
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;----作为核心成员负责项目的申请及完成工作</td>
