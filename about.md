@@ -7,7 +7,7 @@ title: 简历
  		<td align="left">冷&nbsp;&nbsp;雪</td>
  		<td align="left">中共党员</td>
  		<td align="left"></td>
- 		<td align="left" rowspan="3" style="background:/images/leng/resume/(excellent_leader_zju.jpg);"></td>
+ 		<td align="left" rowspan="3" style="background:url(/images/leng/resume/excellent_leader_zju.jpg);"></td>
  	</tr>
  	<tr>
  		<td align="left">浙江大学</td>
