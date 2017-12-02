@@ -29,14 +29,14 @@ title: 简历
 <table>
 	<tr>
 		<td align="left"><ul><li>浙江大学&emsp;计算机科学与技术学院&emsp;博士</li></ul></td>
-		<td align="right" rowspan="2" style="vertical-align:text-top">2015年9月&nbsp;-&nbsp;至今</td>
+		<td align="right" rowspan="2" style="vertical-align:text-top">2015.9&nbsp;-&nbsp;至今</td>
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN/NFV网络安全研究 &emsp;&emsp;&emsp;&emsp;<strong>导&emsp;师：</strong>&nbsp;陈&emsp;焰</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&emsp;计算机科学与技术学院&emsp;学士</li></ul></td>
-		<td align="right" rowspan="2" style="vertical-align:text-top">2011年9月&nbsp;-&nbsp;2015年6月</td>
+		<td align="right" rowspan="2" style="vertical-align:text-top">2011.9&nbsp;-&nbsp;2015.6</td>
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>成绩排名：</strong>&nbsp;2/159 &emsp;&emsp;&emsp;&emsp;<strong>平均分：</strong>&nbsp;91.19</td>
@@ -47,25 +47,25 @@ title: 简历
 <table>
 	<tr>
 		<td align="left"><ul><li>中国思科--实习</li></ul></td>
-		<td align="right" rowspan="2" style="vertical-align:text-top">2016年5月&nbsp;-&nbsp;9月</td>
+		<td align="right" rowspan="2" style="vertical-align:text-top">2016.5&nbsp;-&nbsp;9</td>
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;&emsp;----为企业数据中心开发SDN控制器用于网络的灵活部署和管理</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>大连东软--实习</li></ul></td>
-		<td align="right" rowspan="2" style="vertical-align:text-top">2014年6月&nbsp;-&nbsp;8月</td>
+		<td align="right" rowspan="2" style="vertical-align:text-top">2014.6&nbsp;-&nbsp;8</td>
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;&emsp;----开发一套即时通讯软件，实现局域网内多用户的实时通讯</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>浙江大学计算机学院&emsp;研究生会办公室&emsp;部长</li></ul></td>
-		<td align="right">2015年9月&nbsp;-&nbsp;2016年6月</td>
+		<td align="right">2015.9&nbsp;-&nbsp;2016.6</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学计算机学院&emsp;学生会&emsp;副主席兼学习部部长</li></ul></td>
-		<td align="right">2013年9月&nbsp;-&nbsp;2014年6月</td>
+		<td align="right">2013.9&nbsp;-&nbsp;2014.6</td>
 	</tr>
 </table>
 
@@ -73,43 +73,43 @@ title: 简历
 <table>
 	<tr>
 		<td align="left"><ul><li>浙江大学&nbsp;优秀研究生</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2017年12月</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2017.12</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>浙江大学&nbsp;优秀研究生干部</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2016年12月</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2016.12</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>浙江大学计算机学院&nbsp;优秀运动员</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2015年12月</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2015.12</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&nbsp;优秀毕业生</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2015年6月</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2015.6</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>黑龙江省&nbsp;三好学生</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2014年6月</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2014.6</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>第六届国际雪雕大赛&nbsp;优秀志愿者</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2014年1月</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2014.1</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&nbsp;三好学生标兵(10/12000)</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2013年10月</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2013.10</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&nbsp;暑期社会实践先进个人(2次)</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2012年,&nbsp;2013年10月</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2012,&nbsp;2013.10</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&nbsp;优秀共青团干部</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2013年5月</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2013.5</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&nbsp;优秀共青团员(3次)</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2012年,&nbsp;2013年,&nbsp;2015年5月</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2012,&nbsp;2013,&nbsp;2015.5</td>
 	</tr>
 </table>
 
@@ -117,31 +117,31 @@ title: 简历
 <table>
 	<tr>
 		<td align="left"><ul><li>国家奖学金</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2012年12月</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2012.12</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>XX奖学金</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2015年5月</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2015.5</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&nbsp;一等奖学金(7次)</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2011年&nbsp;-&nbsp;2015年</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2011&nbsp;-&nbsp;2015</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>国家大学生创新科研立项</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2014年10月</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2014.10</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>第九届“博创杯”全国大学生嵌入式物联网设计大赛&nbsp;黑龙江省二等奖</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2014年6月</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2014.6</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>第五届“蓝桥杯”全国软件和信息技术专业人才大赛全国总决赛&nbsp;优秀奖</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2014年6月</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2014.6</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>第三届“赛佰特杯”全国大学生物联网设计大赛&nbsp;国家三等奖</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2013年8月</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2013.8</td>
 	</tr>
 </table>
 
@@ -149,7 +149,7 @@ title: 简历
 <table>
 	<tr>
 		<td align="left"><ul><li>十三五&nbsp;国家重点研发计划&nbsp;网络空间安全专项</li></ul></td>
-		<td align="right" rowspan="3" style="vertical-align: text-top">2017年7月&nbsp;-&nbsp;2020年12月</td>
+		<td align="right" rowspan="3" style="vertical-align: text-top">2017.7&nbsp;-&nbsp;2020.12</td>
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;----作为核心成员负责项目(课题)的申请及完成工作</td>
@@ -159,7 +159,7 @@ title: 简历
 	</tr>
 	<tr>
 		<td align="left"><ul><li>浙江省重点研发计划&nbsp;云计算安全及服务系统研发及应用</li></ul></td>
-		<td align="right" rowspan="3" style="vertical-align: text-top">2017年7月&nbsp;-&nbsp;2020年6月</td>
+		<td align="right" rowspan="3" style="vertical-align: text-top">2017.7月&nbsp;-&nbsp;2020.6</td>
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;----作为核心成员负责项目的申请及完成工作</td>
@@ -169,25 +169,25 @@ title: 简历
 	</tr>
 	<tr>
 		<td align="left"><ul><li>SDNKeeper</li></ul></td>
-		<td align="right" rowspan="2" style="vertical-align: text-top">2017年3月&nbsp;-&nbsp;2017年11月</td>
+		<td align="right" rowspan="2" style="vertical-align: text-top">2017.3&nbsp;-&nbsp;11</td>
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;----应用于基于SDN的云环境的网络资源管控机制，可灵活管控网络资源，管控网络访问请求，有效抵御越权攻击</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>RuleScope</li></ul></td>
-		<td align="right" rowspan="2" style="vertical-align: text-top">2015年3月&nbsp;-&nbsp;2017年4月</td>
+		<td align="right" rowspan="2" style="vertical-align: text-top">2015.3&nbsp;-&nbsp;2017.4</td>
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;----SDN中流表正确性检测方法，可准确检测并定位出流表中存在的优先级错误和规则失效错误</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>局域网即时通讯软件</li></ul></td>
-		<td align="right">2014年8月&nbsp;-&nbsp;9月</td>
+		<td align="right">2014.8&nbsp;-&nbsp;9</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>酒店客房管理系统</li></ul></td>
-		<td align="right">2014年6月&nbsp;-&nbsp;7月</td>
+		<td align="right">2014.6&nbsp;-&nbsp;7</td>
 	</tr>
 </table>
  
@@ -198,15 +198,15 @@ title: 简历
 <table>
 	<tr>
 		<td align="left"><ul><li>浙江大学2015年校运动会&emsp;&emsp;标枪&emsp;4x100接力</li></ul></td>
-		<td align="right">2015年10月</td>
+		<td align="right">2015.10</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>浙江大学计算机学院&emsp;迎新晚会&emsp;&emsp;开场舞表演</li></ul></td>
-		<td align="right">2015年12月</td>
+		<td align="right">2015.12</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>第六届国际大学生雪雕大赛志愿者</li></ul></td>
-		<td align="right">2014年1月</td>
+		<td align="right">2014.1</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&emsp;“三下乡”暑期社会实践</li></ul></td>
@@ -214,14 +214,14 @@ title: 简历
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;&emsp;----内蒙古赤峰市临西县</td>
-		<td align="right">2012年7月</td>
+		<td align="right">2012.7</td>
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;&emsp;----黑龙江省齐齐哈尔市泰来县</td>
-		<td align="right">2013年7月</td>
+		<td align="right">2013.7</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&emsp;“一二九”文艺汇演</li></ul></td>
-		<td align="right">2011年12月,</td>
+		<td align="right">2011.12</td>
 	</tr>
 </table>
