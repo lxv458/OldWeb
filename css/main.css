@@ -216,6 +216,7 @@ table {
   line-height: 40px;
   border: none #363636;
   width: 90%;
+  margin-left: 0px;
   margin: 0px auto; }
 
 thead tr:first-child {
@@ -242,6 +243,7 @@ tbody td {
 }
 td:last-child {
   padding-right: 0px;
+  padding-left: 0px;
   padding-top: 0px;
   padding-bottom: 0px;
   border: none #363636;
