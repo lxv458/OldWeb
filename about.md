@@ -19,9 +19,9 @@ title: 简历
 		<td align="left">博士生</td> 		
 	</tr>
 	<tr>
-		<td align="left">导&emsp;师：<a href="http://www.cs.northwestern.edu/~ychen/">陈&emsp;焰</a></td>
-		<td align="left">联系方式：(86)130-7181-1520</td>
-		<td align="left">邮&emsp;箱：lengxue_2015@outlook.com</td>
+		<td align="left"><b>导&emsp;师：</b><a href="http://www.cs.northwestern.edu/~ychen/">陈&emsp;焰</a></td>
+		<td align="left"><b>联系方式：</b>(86)130-7181-1520</td>
+		<td align="left"><b>邮&emsp;箱：</b>lengxue_2015@outlook.com</td>
 	</tr>
 </table>
 
@@ -32,7 +32,7 @@ title: 简历
 		<td align="right">2015&nbsp;-&nbsp;至今</td>
 	</tr>
 	<tr>
-		<td align="left">&#9;研究方向：&emsp;SDN/NFV网络安全研究&#9;导师：&emsp;陈焰</td>
+		<td align="left">&emsp;<b>研究方向：</b>&nbsp;SDN/NFV网络安全研究 &emsp;<b>导&emsp;师：</b>&nbsp;陈焰</td>
 		<td align="right"></td>
 	</tr>
 	<tr>
@@ -40,7 +40,7 @@ title: 简历
 		<td align="right">2011&nbsp;-&nbsp;2015</td>
 	</tr>
 	<tr>
-		<td align="left">&#9;成绩排名：&nbsp;2/159&#9;平均分：&nbsp;91.19</td>
+		<td align="left">&emsp;&emsp;<b>成绩排名：</b>&nbsp;2/159 &emsp;<b>平均分：</b>&nbsp;91.19</td>
 		<td align="right"></td>
 	</tr>
 </table>
