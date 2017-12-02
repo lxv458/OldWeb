@@ -7,7 +7,7 @@ title: 简历
  		<td align="left">冷&nbsp;&nbsp;雪</td>
  		<td align="left">中共党员</td>
  		<td align="left"></td>
- 		<td align="center" valign="middle" rowspan="3" width="130" height="180"> <img src="/images/leng/resume/excellent_leader_zju.jpg" width="130" height="180" /></td>
+ 		<td align="center" valign="middle" rowspan="3" width="130" height="180">haha </td>
  	</tr>
  	<tr>
  		<td align="left">浙江大学</td>
@@ -17,7 +17,7 @@ title: 简历
  	<tr>
  		<td align="left">导&nbsp;&nbsp;师：<a href="http://www.cs.northwestern.edu/~ychen/">陈&nbsp;&nbsp;焰</a></td>
  		<td align="left">联系方式：(86)130-7181-1520</td>
- 		<td align="left">邮&nbsp;&nbsp;箱：lengxue_2015@outlook.com</td>
+ 		<td align="left">邮&nbsp;&nbsp;箱：lengxue_2015@outlook.com<img src="/images/leng/resume/excellent_leader_zju.jpg" width="130" height="180" /></td>
  	</tr>
  </table>
 
