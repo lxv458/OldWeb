@@ -4,7 +4,7 @@ title: 简历
 ---
 <table>
 	<tr>
-		<td align="center" colspan="3"> </td>
+		<td align="center" colspan="3">&nbsp;&nbsp;</td>
 		<td align="center" rowspan="6" style="vertical-align:middle"><img src="/images/leng/resume/myself.jpg" width="140" height="180" /></td>
 	</tr>
 	<tr>
@@ -23,13 +23,10 @@ title: 简历
 		<td align="left">邮&nbsp;&nbsp;箱：lengxue_2015@outlook.com</td>
 	</tr>
 	<tr>
-		<td colspan="3"> d</td>
+		<td colspan="3">&nbsp;&nbsp;</td>
 	</tr>
 	<tr>
-		<td colspan="3"> d</td>
-	</tr>
-	<tr>
-		<td colspan="4"> d</td>
+		<td colspan="3">&nbsp;&nbsp;</td>
 	</tr>
 </table>
 
