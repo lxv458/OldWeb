@@ -169,7 +169,7 @@ title: 简历
 	</tr>
 	<tr>
 		<td align="left"><ul><li>第六届国际大学生雪雕大赛志愿者</li></ul></td>
-		<td align="right">2014年1月/td>
+		<td align="right">2014年1月</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&emsp;“三下乡”暑期社会实践</li></ul></td>
