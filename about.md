@@ -32,7 +32,7 @@ title: 简历
 		<td align="right">2015年9月&nbsp;-&nbsp;至今</td>
 	</tr>
 	<tr>
-		<td align="left">&emsp;<strong>研究方向：</strong>&nbsp;SDN/NFV网络安全研究 &emsp;<strong>导&emsp;师：</strong>&nbsp;陈&emsp;焰</td>
+		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN/NFV网络安全研究 &emsp;<strong>导&emsp;师：</strong>&nbsp;陈&emsp;焰</td>
 		<td align="right"></td>
 	</tr>
 	<tr>
@@ -40,7 +40,7 @@ title: 简历
 		<td align="right">2011年9月&nbsp;-&nbsp;2015年6月</td>
 	</tr>
 	<tr>
-		<td align="left">&emsp;&emsp;<strong>成绩排名：</strong>&nbsp;2/159 &emsp;<strong>平均分：</strong>&nbsp;91.19</td>
+		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>成绩排名：</strong>&nbsp;2/159 &emsp;<strong>平均分：</strong>&nbsp;91.19</td>
 		<td align="right"></td>
 	</tr>
 </table>
@@ -52,7 +52,7 @@ title: 简历
 		<td align="right">2016年5月&nbsp;-&nbsp;9月</td>
 	</tr>
 	<tr>
-		<td align="left">&#9;----为企业数据中心开发SDN控制器用于网络的灵活部署和管理</td>
+		<td align="left">&emsp;&emsp;&emsp;----为企业数据中心开发SDN控制器用于网络的灵活部署和管理</td>
 		<td align="right"></td>
 	</tr>
 	<tr>
@@ -60,7 +60,7 @@ title: 简历
 		<td align="right">2014年6月&nbsp;-&nbsp;8月</td>
 	</tr>
 	<tr>
-		<td align="left">&#9;----开发一套即时通讯软件，实现局域网内多用户的实时通讯</td>
+		<td align="left">&emsp;&emsp;&emsp;----开发一套即时通讯软件，实现局域网内多用户的实时通讯</td>
 		<td align="right"></td>
 	</tr>
 	<tr>
