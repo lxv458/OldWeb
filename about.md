@@ -4,12 +4,12 @@ title: 简历
 ---
 <table>
 	<tr>
-		<td rowspan="4">&nbsp;&nbsp;</td>
-		<td align="center" colspan="3">&nbsp;&nbsp;</td>
+		<td rowspan="4">&nbsp;</td>
+		<td align="center" colspan="3">&nbsp;</td>
 		<td align="center" rowspan="4" style="vertical-align:middle"><img src="/images/leng/resume/myself.jpg" width="140" height="180" /></td>
 	</tr>
 	<tr>
-		<td align="left">冷&nbsp;&nbsp;雪</td>
+		<td align="left">冷&nbsp;雪</td>
 		<td align="left">中共党员</td>
 		<td align="left"></td>
 	</tr>
@@ -19,9 +19,9 @@ title: 简历
 		<td align="left">博士生</td> 		
 	</tr>
 	<tr>
-		<td align="left">导&nbsp;&nbsp;师：<a href="http://www.cs.northwestern.edu/~ychen/">陈&nbsp;&nbsp;焰</a></td>
+		<td align="left">导&nbsp;师：<a href="http://www.cs.northwestern.edu/~ychen/">陈&nbsp;焰</a></td>
 		<td align="left">联系方式：(86)130-7181-1520</td>
-		<td align="left">邮&nbsp;&nbsp;箱：lengxue_2015@outlook.com</td>
+		<td align="left">邮&nbsp;箱：lengxue_2015@outlook.com</td>
 	</tr>
 </table>
 
@@ -46,6 +46,32 @@ title: 简历
 </table>
 
 ### 经历
+<table>
+	<tr>
+		<td align="left"><ul><li>中国思科--实习</li></ul></td>
+		<td align="right">May&nbsp;-&nbsp;Sep.2016</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>&emsp;————为企业数据中心开发SDN控制器用于网络的灵活部署和管理</li></ul></td>
+		<td align="right"></td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>大连东软--实习</li></ul></td>
+		<td align="right">Jun&nbsp;-&nbsp;Aug.2014</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>&emsp;————开发一套即时通讯软件，实现局域网内多用户的实时通讯</li></ul></td>
+		<td align="right"></td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>浙江大学计算机学院&emsp;研究生会办公室&emsp;部长</li></ul></td>
+		<td align="right">Sep.2015&nbsp;-&nbsp;Jun.2016</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>哈尔滨工程大学计算机学院&emsp;学生会&emsp;副主席兼学习部部长</li></ul></td>
+		<td align="right">Sep.2013&nbsp;-&nbsp;Jun.2014</td>
+	</tr>
+</table>
  * cisco实习
 
  * 东软实习
