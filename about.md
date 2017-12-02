@@ -7,7 +7,7 @@ title: 简历
 		<td align="left">冷&nbsp;&nbsp;雪</td>
 		<td align="left">中共党员</td>
 		<td align="left"></td>
-		<td align="center" rowspan="3" style="vertical-align:middle">垂直居中</td>
+		<td align="center" rowspan="3" style="vertical-align:middle"><img src="/images/leng/resume/excellent_leader_zju.jpg" width="130" height="160" /></td>
 	</tr>
 	<tr valign="middle">
 		<td align="left">浙江大学</td>
@@ -23,7 +23,7 @@ title: 简历
 
 ### 教育经历
  * 哈尔滨工程大学
- <img src="/images/leng/resume/excellent_leader_zju.jpg" width="130" height="180" />
+ 
  * 浙江大学
 
 ### 经历
