@@ -29,7 +29,7 @@ title: 简历
 <table>
 	<tr>
 		<td align="left"><ul><li>浙江大学&emsp;计算机科学与技术学院&emsp;博士</li></ul></td>
-		<td align="right">2015年9月&nbsp;-&nbsp;至今</td>
+		<td align="right" rowspan="2" style="vertical-align:top">2015年9月&nbsp;-&nbsp;至今</td>
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN/NFV网络安全研究 &emsp;&emsp;&emsp;&emsp;<strong>导&emsp;师：</strong>&nbsp;陈&emsp;焰</td>
@@ -37,7 +37,7 @@ title: 简历
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&emsp;计算机科学与技术学院&emsp;学士</li></ul></td>
-		<td align="right">2011年9月&nbsp;-&nbsp;2015年6月</td>
+		<td align="right" rowspan="2" style="vertical-align:text-top">2011年9月&nbsp;-&nbsp;2015年6月</td>
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>成绩排名：</strong>&nbsp;2/159 &emsp;&emsp;&emsp;&emsp;<strong>平均分：</strong>&nbsp;91.19</td>
@@ -49,7 +49,7 @@ title: 简历
 <table>
 	<tr>
 		<td align="left"><ul><li>中国思科--实习</li></ul></td>
-		<td align="right">2016年5月&nbsp;-&nbsp;9月</td>
+		<td align="right" rowspan="2" style="vertical-align:text-top">2016年5月&nbsp;-&nbsp;9月</td>
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;&emsp;----为企业数据中心开发SDN控制器用于网络的灵活部署和管理</td>
@@ -57,7 +57,7 @@ title: 简历
 	</tr>
 	<tr>
 		<td align="left"><ul><li>大连东软--实习</li></ul></td>
-		<td align="right">2014年6月&nbsp;-&nbsp;8月</td>
+		<td align="right" rowspan="2" style="vertical-align:text-top">2014年6月&nbsp;-&nbsp;8月</td>
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;&emsp;----开发一套即时通讯软件，实现局域网内多用户的实时通讯</td>
