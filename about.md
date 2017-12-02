@@ -29,7 +29,7 @@ title: 简历
 <table>
 	<tr>
 		<td align="left"><ul><li>浙江大学&emsp;计算机科学与技术学院&emsp;博士</li></ul></td>
-		<td align="right" rowspan="2" style="vertical-align:top">2015年9月&nbsp;-&nbsp;至今</td>
+		<td align="right" rowspan="2" style="vertical-align:text-top">2015年9月&nbsp;-&nbsp;至今</td>
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN/NFV网络安全研究 &emsp;&emsp;&emsp;&emsp;<strong>导&emsp;师：</strong>&nbsp;陈&emsp;焰</td>
