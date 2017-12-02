@@ -242,7 +242,7 @@ tbody td {
   border: none #363636;
 }
 td:last-child {
-  padding-right: 0px;
+  padding-right: 2%;
   padding-left: 0px;
   padding-top: 0px;
   padding-bottom: 0px;
