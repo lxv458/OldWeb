@@ -33,7 +33,6 @@ title: 简历
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN/NFV网络安全研究 &emsp;&emsp;&emsp;&emsp;<strong>导&emsp;师：</strong>&nbsp;陈&emsp;焰</td>
-		<td align="right"></td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&emsp;计算机科学与技术学院&emsp;学士</li></ul></td>
@@ -41,7 +40,6 @@ title: 简历
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>成绩排名：</strong>&nbsp;2/159 &emsp;&emsp;&emsp;&emsp;<strong>平均分：</strong>&nbsp;91.19</td>
-		<td align="right"></td>
 	</tr>
 </table>
 
@@ -53,7 +51,6 @@ title: 简历
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;&emsp;----为企业数据中心开发SDN控制器用于网络的灵活部署和管理</td>
-		<td align="right"></td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>大连东软--实习</li></ul></td>
@@ -61,7 +58,6 @@ title: 简历
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;&emsp;----开发一套即时通讯软件，实现局域网内多用户的实时通讯</td>
-		<td align="right"></td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>浙江大学计算机学院&emsp;研究生会办公室&emsp;部长</li></ul></td>
@@ -162,10 +158,33 @@ title: 简历
   1. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, **Xue Leng**, <a href="http://www.lengxue.space/images/leng/resume/RuleScope_ToN.pdf">"RuleScope: Inspecting Forwarding Faults for Software-Defined Networking"</a>, in ACM/IEEE Transaction on Networking (ToN), Volume 25, Issue 4, Aug. 2017.
 
 ### 课余活动
- * 雪雕大赛志愿者
-
- * 三下乡
-
- * 运动会
-
- * 文艺晚会
+<table>
+	<tr>
+		<td align="left"><ul><li>浙江大学2015年校运动会&emsp;&emsp;标枪&emsp;4x100接力</li></ul></td>
+		<td align="right">2015年10月</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>浙江大学计算机学院&emsp;迎新晚会&emsp;&emsp;开场舞表演</li></ul></td>
+		<td align="right">2015年12月</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>第六届国际大学生雪雕大赛志愿者</li></ul></td>
+		<td align="right">2014年1月/td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>哈尔滨工程大学&emsp;“三下乡”暑期社会实践</li></ul></td>
+		<td align="right">&nbsp;</td>
+	</tr>
+	<tr>
+		<td align="left">&emsp;&emsp;&emsp;----内蒙古赤峰市临西县</td>
+		<td align="right">2012年7月</td>
+	</tr>
+	<tr>
+		<td align="left">&emsp;&emsp;&emsp;----黑龙江省齐齐哈尔市泰来县</td>
+		<td align="right">2013年7月</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>哈尔滨工程大学&emsp;“一二九”文艺汇演</li></ul></td>
+		<td align="right">2011年12月,</td>
+	</tr>
+</table>
