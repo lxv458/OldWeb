@@ -159,7 +159,7 @@ title: 简历
  * RuleScope
  
 ### 科研成果
-  1. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, **Xue Leng**, "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in ACM/IEEE Transaction on Networking (ToN), Volume 25, Issue 4, Aug. 2017.
+  1. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, **Xue Leng**, <a href="http://www.lengxue.space/images/leng/resume/RuleScope_ToN.pdf">"RuleScope: Inspecting Forwarding Faults for Software-Defined Networking"</a>, in ACM/IEEE Transaction on Networking (ToN), Volume 25, Issue 4, Aug. 2017.
 
 ### 课余活动
  * 雪雕大赛志愿者
