@@ -22,9 +22,6 @@ title: 简历
 		<td align="left">联系方式：(86)130-7181-1520</td>
 		<td align="left">邮&nbsp;&nbsp;箱：lengxue_2015@outlook.com</td>
 	</tr>
-	<tr>
-		<td colspan="3">&nbsp;&nbsp;</td>
-	</tr>
 </table>
 
 ### 教育经历
