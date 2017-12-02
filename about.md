@@ -32,7 +32,7 @@ title: 简历
 		<td align="right">2015&nbsp;-&nbsp;Present</td>
 	</tr>
 	<tr>
-		<td align="left"><ul><li>研究方向：&nbsp;SDN/NFV网络安全研究&nbsp;指导教师：&nbsp;陈焰</li></ul></td>
+		<td align="left">&emsp;&emsp;研究方向：&nbsp;SDN/NFV网络安全研究&nbsp;指导教师：&nbsp;陈焰</td>
 		<td align="right"></td>
 	</tr>
 	<tr>
@@ -40,7 +40,7 @@ title: 简历
 		<td align="right">2011&nbsp;-&nbsp;2015</td>
 	</tr>
 	<tr>
-		<td align="left"><ul><li>成绩排名：&nbsp;2/159&nbsp;平均分：&nbsp;91.19</li></ul></td>
+		<td align="left">&emsp;&emsp;成绩排名：&nbsp;2/159&nbsp;平均分：&nbsp;91.19</td>
 		<td align="right"></td>
 	</tr>
 </table>
@@ -52,7 +52,7 @@ title: 简历
 		<td align="right">May&nbsp;-&nbsp;Sep.2016</td>
 	</tr>
 	<tr>
-		<td align="left"><ul><li>&emsp;————为企业数据中心开发SDN控制器用于网络的灵活部署和管理</li></ul></td>
+		<td align="left">&emsp;————为企业数据中心开发SDN控制器用于网络的灵活部署和管理</td>
 		<td align="right"></td>
 	</tr>
 	<tr>
@@ -60,7 +60,7 @@ title: 简历
 		<td align="right">Jun&nbsp;-&nbsp;Aug.2014</td>
 	</tr>
 	<tr>
-		<td align="left"><ul><li>&emsp;————开发一套即时通讯软件，实现局域网内多用户的实时通讯</li></ul></td>
+		<td align="left">&emsp;————开发一套即时通讯软件，实现局域网内多用户的实时通讯</td>
 		<td align="right"></td>
 	</tr>
 	<tr>
