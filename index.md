@@ -161,7 +161,7 @@ title: Resume
     <td align="right" rowspan="3" style="vertical-align: text-top">Jul. 2017&nbsp;-&nbsp;Jun. 2020</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;----Responsible for project application and implementation as a core member></td>
+    <td align="left">&emsp;&emsp;----Responsible for project application and implementation as a core member</td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;----Responsible for the design and implementation of active defense mechanism of network attack in SDN-based Cloud</td>
