@@ -157,14 +157,8 @@ title: Resume
     <td align="left">&emsp;&emsp;----Responsible for the design and implementation of active defense mechanism of network attack in SDN/NFV</td>
   </tr>
   <tr>
-    <td align="left"><ul><li><strong>Key Research and Development Plan of Zhejiang Province</strong>, The Security of Cloud and Development and Application of Aervice System</li></ul></td>
-    <td align="right" rowspan="3" style="vertical-align: text-top">Jul. 2017&nbsp;-&nbsp;Jun. 2020</td>
-  </tr>
-  <tr>
-    <td align="left">&emsp;&emsp;----Responsible for project application and implementation as a core member</td>
-  </tr>
-  <tr>
-    <td align="left">&emsp;&emsp;----Responsible for the design and implementation of active defense mechanism of network attack in SDN-based Cloud</td>
+    <td align="left"><ul><li><strong>Key Research and Development Plan of Zhejiang Province</strong>, The Security of Cloud and Development and Application of Aervice System</li></ul><br>&emsp;&emsp;----Responsible for project application and implementation as a core member<br>&emsp;&emsp;----Responsible for the design and implementation of active defense mechanism of network attack in SDN-based Cloud</td>
+    <td align="right" style="vertical-align: text-top">Jul. 2017&nbsp;-&nbsp;Jun. 2020</td>
   </tr>
   <tr>
     <td align="left"><ul><li><strong>SDNKeeper</strong></li></ul></td>
