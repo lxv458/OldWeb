@@ -124,7 +124,7 @@ title: Resume
   </tr>
   <tr>
     <td align="left"><ul><li>First-Class Scholarship of HEU (7 times)</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2011 - 2015</td>
+    <td align="right" width="150px"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2011 - 2015</td>
   </tr>
   <tr>
     <td align="left"><ul><li>National Innovation Research Project for College Student</li></ul></td>
