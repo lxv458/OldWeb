@@ -59,11 +59,11 @@ title: Resume
     <td align="left">&emsp;&emsp;&emsp;----Developed a LAN Messaging APP, realizing multiuser instant messaging in LAN</td>
   </tr>
   <tr>
-    <td align="left"><ul><li><strong>Mnister</strong>&emsp;of Postgraduate Association in CS. ZJU</li></ul></td>
+    <td align="left"><ul><li><strong>Mnister</strong>&nbsp;of Postgraduate Association in CS. ZJU</li></ul></td>
     <td align="right">Sep. 2015&nbsp;-&nbsp;Jun. 2016</td>
   </tr>
   <tr>
-    <td align="left"><ul><li><strong>Vice-President</strong>&emsp;of Student Union in CS. HEU</li></ul></td>
+    <td align="left"><ul><li><strong>Vice-President</strong>&nbsp;of Student Union in CS. HEU</li></ul></td>
     <td align="right">Sep. 2013&nbsp;-&nbsp;Jun. 2014</td>
   </tr>
 </table>
@@ -148,7 +148,7 @@ title: Resume
 <table>
   <tr>
     <td align="left"><ul><li>The 13th Five-year,&nbsp;<strong>National Key Research and Development Plan</strong>&nbsp;, Special of Cyberspace Security</li></ul></td>
-    <td align="right" rowspan="3" style="vertical-align: text-top" width="200px">July. 2017&nbsp;-&nbsp;Dec. 2020</td>
+    <td align="right" rowspan="3" style="vertical-align: text-top" width="200px">Jul. 2017&nbsp;-&nbsp;Dec. 2020</td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;----Responsible for project application and implementation as a core member</td>
@@ -158,7 +158,7 @@ title: Resume
   </tr>
   <tr>
     <td align="left"><ul><li><strong>Key Research and Development Plan of Zhejiang Province</strong>&emsp;The Security of Cloud and Development and Application of Aervice System</li></ul></td>
-    <td align="right" rowspan="3" style="vertical-align: text-top">July. 2017&nbsp;-&nbsp;Jun. 2020</td>
+    <td align="right" rowspan="3" style="vertical-align: text-top">Jul. 2017&nbsp;-&nbsp;Jun. 2020</td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;----Responsible for project application and implementation as a core member</td>
@@ -186,7 +186,7 @@ title: Resume
   </tr>
   <tr>
     <td align="left"><ul><li>Hotel Guestroom Management System</li></ul></td>
-    <td align="right">Jun.&nbsp;-&nbsp;July. 2014</td>
+    <td align="right">Jun.&nbsp;-&nbsp;Jul. 2014</td>
   </tr>
 </table>
  
@@ -213,11 +213,11 @@ title: Resume
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;&emsp;----Linxi County, Chifeng, Inner Mongolia</td>
-    <td align="right">July. 2012</td>
+    <td align="right">Jul. 2012</td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;&emsp;----Tailai County, Qigihar, Heilongjiang</td>
-    <td align="right">July. 2013</td>
+    <td align="right">Jul. 2013</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Art Show of HEU</li></ul></td>
