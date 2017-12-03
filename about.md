@@ -96,11 +96,11 @@ title: 简历
 		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2014.1</td>
 	</tr>
 	<tr>
-		<td align="left"><ul><li>哈尔滨工程大学&nbsp;三好学生标兵(10/12000)</li></ul></td>
+		<td align="left"><ul><li>哈尔滨工程大学&nbsp;三好学生标兵 (10/12000)</li></ul></td>
 		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2013.10</td>
 	</tr>
 	<tr>
-		<td align="left"><ul><li>哈尔滨工程大学&nbsp;暑期社会实践先进个人(2次)</li></ul></td>
+		<td align="left"><ul><li>哈尔滨工程大学&nbsp;暑期社会实践先进个人 (2次)</li></ul></td>
 		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2012,&nbsp;2013.10</td>
 	</tr>
 	<tr>

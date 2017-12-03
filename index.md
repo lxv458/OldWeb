@@ -13,7 +13,7 @@ title: Resume
     <td align="left"></td>
   </tr>
   <tr>
-    <td align="left">Ph.D Student</td>
+    <td align="left">Ph.D. Student</td>
     <td align="left">College of Computer Science and Technology</td>
     <td align="left">Zhejiang University (ZJU)</td>     
   </tr>
@@ -27,14 +27,14 @@ title: Resume
 ### Education
 <table>
   <tr>
-    <td align="left"><ul><li>Ph.D&emsp;College of Computer Science and Technology&emsp;Zhejiang University (ZJU)</li></ul></td>
+    <td align="left"><ul><li><strong>Ph.D.</strong>&emsp;College of Computer Science and Technology&emsp;Zhejiang University (ZJU)</li></ul></td>
     <td align="right" rowspan="2" style="vertical-align:text-top">Sep. 2015&nbsp;-&nbsp;Present</td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Research Interests：</strong>&nbsp;the security of SDN/NFV &emsp;&emsp;&emsp;&emsp;<strong>Advisor：</strong>&nbsp;Prof. Yan Chen</td>
   </tr>
   <tr>
-    <td align="left"><ul><li>B.E.&emsp;College of Computer Science and Technology&emsp;Harbin Engineering University (HEU)</li></ul></td>
+    <td align="left"><ul><li><strong>B.E.</strong>&emsp;College of Computer Science and Technology&emsp;Harbin Engineering University (HEU)</li></ul></td>
     <td align="right" rowspan="2" style="vertical-align:text-top">Sep. 2011&nbsp;-&nbsp;Jun. 2015</td>
   </tr>
   <tr>
@@ -45,14 +45,14 @@ title: Resume
 ### Experience
 <table>
   <tr>
-    <td align="left"><ul><li>Intership at Cisco</li></ul></td>
+    <td align="left"><ul><li><strong>Intership</strong>&nbsp;at Cisco</li></ul></td>
     <td align="right" rowspan="2" style="vertical-align:text-top">May&nbsp;-&nbsp;Sep. 2016</td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;&emsp;----Developed an SDN controller, used for deploying and managing network for Enterprise Data Center (Alibaba)</td>
   </tr>
   <tr>
-    <td align="left"><ul><li>Intership at Dalian Neusoft </li></ul></td>
+    <td align="left"><ul><li><strong>Intership</strong>&nbsp;at Dalian Neusoft </li></ul></td>
     <td align="right" rowspan="2" style="vertical-align:text-top">Jun&nbsp;-&nbsp;Aug. 2014</td>
   </tr>
   <tr>
@@ -69,7 +69,48 @@ title: Resume
 </table>
 
 ### Honor
-  * honorary title
+<table>
+  <tr>
+    <td align="left"><ul><li>Outstanding Graduate Award (ZJU)</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Dec. 2017</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>Outstanding Graduate Leader Award (ZJU)/li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Dec. 2016</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>Excellent Athlete (CS. ZJU)</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Dec. 2015</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>Excellent Graduate (HEU)</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Jun. 2015</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>Triple-A Student of Heilongjiang Province</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Jun. 2014</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>Excellent Volunteer of the 6th International Snow Sculpture Competition of College Students</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Jan. 2014</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>Pacemaker to Merit Student of HEU (10/12000)</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Oct. 2013</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>Advanced Individual of Summer Social Practice in HEU (2次)</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Oct. 2012,&nbsp;2013</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>Outstanding Youth League Cadre (HEU)</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> May. 2013</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>Outstanding Youth League Member in HEU (3次)</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> May. 2012,&nbsp;2013,&nbsp;2015</td>
+  </tr>
+</table>
 
 ### Awards
   * scholarship
