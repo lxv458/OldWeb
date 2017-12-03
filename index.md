@@ -14,11 +14,11 @@ title: Resume
   </tr>
   <tr>
     <td align="left">Ph.D Student</td>
-    <td align="left">College ofComputer Science and Technology</td>
-    <td align="left">Zhejiang University(ZJU)</td>     
+    <td align="left">College of Computer Science and Technology</td>
+    <td align="left">Zhejiang University (ZJU)</td>     
   </tr>
   <tr>
-    <td align="left"><strong>Mentor：</strong>Prof.<a href="http://www.cs.northwestern.edu/~ychen/">Yan&nbsp;Chen</a></td>
+    <td align="left"><strong>Advisor：</strong>Prof. <a href="http://www.cs.northwestern.edu/~ychen/">Yan&nbsp;Chen</a></td>
     <td align="left"><strong>Phone：</strong>(86)130-7181-1520</td>
     <td align="left"><strong>Email：</strong>lengxue_2015@outlook.com</td>
   </tr>
@@ -27,18 +27,18 @@ title: Resume
 ### Education
 <table>
   <tr>
-    <td align="left"><ul><li>Ph.D&emsp;College of Computer Science and Technology&emsp;Zhejiang University</li></ul></td>
-    <td align="right" rowspan="2" style="vertical-align:text-top">2015.9&nbsp;-&nbsp;Present</td>
+    <td align="left"><ul><li>Ph.D&emsp;College of Computer Science and Technology&emsp;Zhejiang University (ZJU)</li></ul></td>
+    <td align="right" rowspan="2" style="vertical-align:text-top">Sep. 2015&nbsp;-&nbsp;Present</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN/NFV网络安全研究 &emsp;&emsp;&emsp;&emsp;<strong>Mentor：</strong>&nbsp;Yan&nbsp;Chen</td>
+    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Research Interests：</strong>&nbsp;the security of SDN/NFV &emsp;&emsp;&emsp;&emsp;<strong>Advisor：</strong>&nbsp;Prof. Yan Chen</td>
   </tr>
   <tr>
-    <td align="left"><ul><li>哈尔滨工程大学&emsp;计算机科学与技术学院&emsp;学士</li></ul></td>
-    <td align="right" rowspan="2" style="vertical-align:text-top">2011.9&nbsp;-&nbsp;2015.6</td>
+    <td align="left"><ul><li>B.E.&emsp;College of Computer Science and Technology&emsp;Harbin Engineering University (HEU)</li></ul></td>
+    <td align="right" rowspan="2" style="vertical-align:text-top">Sep. 2011&nbsp;-&nbsp;Jun. 2015</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>成绩排名：</strong>&nbsp;2/159 &emsp;&emsp;&emsp;&emsp;<strong>平均分：</strong>&nbsp;91.19</td>
+    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Rank：</strong>&nbsp;2/159 &emsp;&emsp;&emsp;&emsp;<strong>Average：</strong>&nbsp;91.19</td>
   </tr>
 </table>
 
