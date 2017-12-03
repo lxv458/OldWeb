@@ -154,13 +154,36 @@ title: Resume
   * RuleScope
  
 ### Publication 
-  1. TON
+  1. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, **Xue Leng**, <a href="http://www.lengxue.space/images/leng/resume/RuleScope_ToN.pdf">"RuleScope: Inspecting Forwarding Faults for Software-Defined Networking"</a>, in ACM/IEEE Transaction on Networking (ToN), Volume 25, Issue 4, Aug. 2017.
 
 ### Activity
-  * snow sculpture volunteer 
-
-  * three-dimension social practice 
-
-  * sports meeting
-
-  * Cultural Show
+<table>
+  <tr>
+    <td align="left"><ul><li>Javelin and 4x100 Relay in School Sports Meeting of ZJU</li></ul></td>
+    <td align="right">Oct. 2015</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>Open dance performance in New Year Party of CS. ZJU</li></ul></td>
+    <td align="right">Dec. 2015</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>Volunteer of the 6th International Snow Sculpture Competition of College Students</li></ul></td>
+    <td align="right">Jan. 2014</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>Three-dimension Social Practice of HEU</li></ul></td>
+    <td align="right">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;&emsp;----Linxi County, Chifeng, Inner Mongolia</td>
+    <td align="right">July. 2012</td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;&emsp;----Tailai County, Qigihar, Heilongjiang</td>
+    <td align="right">July. 2013</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>哈尔滨工程大学&emsp;“一二九”文艺汇演</li></ul></td>
+    <td align="right">Dec. 2011</td>
+  </tr>
+</table>
