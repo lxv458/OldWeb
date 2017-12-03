@@ -154,7 +154,7 @@ title: Resume
     <td align="left">&emsp;&emsp;----Responsible for project application and implementation as a core member</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;----Responsible for the design and implementation of active defense mechanism of network attack in SDN/NFV</td>
+    <td align="left">&emsp;&emsp;----Responsible for the design and implementation of active defense mechanism in SDN/NFV</td>
   </tr>
   <tr>
     <td align="left"><ul><li><strong>Key Research and Development Plan of Zhejiang Province</strong>, The Security of Cloud and Development and Application of Aervice System</li></ul></td>
@@ -164,14 +164,17 @@ title: Resume
     <td align="left">&emsp;&emsp;----Responsible for project application and implementation as a core member</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;----Responsible for the design and implementation of active defense mechanism of network attack in SDN-based Cloud</td>
+    <td align="left">&emsp;&emsp;----Responsible for the design and implementation of active defense mechanism in SDN-based Cloud</td>
   </tr>
   <tr>
     <td align="left"><ul><li><strong>SDNKeeper</strong></li></ul></td>
-    <td align="right" rowspan="2" style="vertical-align: text-top">Mar.&nbsp;-&nbsp;Nov. 2017</td>
+    <td align="right" rowspan="3" style="vertical-align: text-top">Mar.&nbsp;-&nbsp;Nov. 2017</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;----A flexible policy enforcement system for network management in SDN-based Cloud, controlling network deployment and accessing requests to defense unauthorized attack</td>
+    <td align="left">&emsp;&emsp;----A flexible policy enforcement system for network management in SDN-based Cloud</td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;----Controlling network deployment and accessing requests to defense unauthorized attack</td>
   </tr>
   <tr>
     <td align="left"><ul><li><strong>RuleScope</strong></li></ul></td>
