@@ -124,7 +124,7 @@ title: Resume
   </tr>
   <tr>
     <td align="left"><ul><li>First-Class Scholarship of HEU (7 times)</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2011&nbsp;-&nbsp;2015</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2011 - 2015</td>
   </tr>
   <tr>
     <td align="left"><ul><li>National Innovation Research Project for College Student</li></ul></td>
@@ -135,7 +135,7 @@ title: Resume
     <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Jun. 2014</td>
   </tr>
   <tr>
-    <td align="left"><ul><li><strong>Excellence Award</strong> of the 5th "LanQiao Cap" National Competition for the Software and Information Technology Professionals Contest</li></ul></td>
+    <td align="left"><ul><li><strong>Excellence Award</strong> of the 5th "LanQiao Cap" National Competition for Software and Information Technology</li></ul></td>
     <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Jun. 2014</td>
   </tr>
   <tr>
@@ -167,14 +167,14 @@ title: Resume
     <td align="left">&emsp;&emsp;----Responsible for the design and implementation of active defense mechanism of network attack in SDN-based Cloud</td>
   </tr>
   <tr>
-    <td align="left"><ul><li>SDNKeeper</li></ul></td>
+    <td align="left"><ul><li><strong>SDNKeeper</strong></li></ul></td>
     <td align="right" rowspan="2" style="vertical-align: text-top">Mar.&nbsp;-&nbsp;Nov. 2017</td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;----A flexible policy enforcement system for network management in SDN-based Cloud, controlling network deployment and accessing requests to defense unauthorized attack</td>
   </tr>
   <tr>
-    <td align="left"><ul><li>RuleScope</li></ul></td>
+    <td align="left"><ul><li><strong>RuleScope</strong></li></ul></td>
     <td align="right" rowspan="2" style="vertical-align: text-top">Mar. 2015&nbsp;-&nbsp;Apr. 2017</td>
   </tr>
   <tr>
