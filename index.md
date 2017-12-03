@@ -99,7 +99,7 @@ title: Resume
     <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Oct. 2013</td>
   </tr>
   <tr>
-    <td align="left"><ul><li>Advanced Individual of Summer Social Practice in HEU (2次)</li></ul></td>
+    <td align="left"><ul><li>Advanced Individual of Summer Social Practice in HEU (2 times)</li></ul></td>
     <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Oct. 2012,&nbsp;2013</td>
   </tr>
   <tr>
@@ -107,15 +107,42 @@ title: Resume
     <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> May. 2013</td>
   </tr>
   <tr>
-    <td align="left"><ul><li>Outstanding Youth League Member in HEU (3次)</li></ul></td>
+    <td align="left"><ul><li>Outstanding Youth League Member in HEU (3 times)</li></ul></td>
     <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> May. 2012,&nbsp;2013,&nbsp;2015</td>
   </tr>
 </table>
 
 ### Awards
-  * scholarship
-
-  * competition
+<table>
+  <tr>
+    <td align="left"><ul><li>National Scholarship</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Dec. 2012</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>XX Scholarship</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> May. 2015</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>First-Class Scholarship of HEU (7 times)</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2011&nbsp;-&nbsp;2015</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>National Innovation Research Project for College Student</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Oct 2014</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li><strong>Second-class Award</strong> in Heilongjiang Province of the 9th "BoChuang Cap" National College Students' Embedded IoT Design Competition</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Jun. 2014</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li><strong>Excellence Award</strong> of the 5th "LanQiao Cap" National Competition for the Software and Information Technology Professionals Contest</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Jun. 2014</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li><strong>Third-class Award</strong> of the 3rd "SaiBaiTe Cap" National College Students' IoT Design Competition</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Aug. 2013</td>
+  </tr>
+</table>
 
 ### Project
   * National Key Research and Developement
