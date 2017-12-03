@@ -46,14 +46,14 @@ title: Resume
 <table>
   <tr>
     <td align="left"><ul><li><strong>Intership</strong>&nbsp;at Cisco</li></ul></td>
-    <td align="right" rowspan="2" style="vertical-align:text-top">May&nbsp;-&nbsp;Sep. 2016</td>
+    <td align="right" rowspan="2" style="vertical-align:text-top">May.&nbsp;-&nbsp;Sep. 2016</td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;&emsp;----Developed an SDN controller, used for deploying and managing network for Enterprise Data Center (Alibaba)</td>
   </tr>
   <tr>
     <td align="left"><ul><li><strong>Intership</strong>&nbsp;at Dalian Neusoft </li></ul></td>
-    <td align="right" rowspan="2" style="vertical-align:text-top">Jun&nbsp;-&nbsp;Aug. 2014</td>
+    <td align="right" rowspan="2" style="vertical-align:text-top">Jun.&nbsp;-&nbsp;Aug. 2014</td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;&emsp;----Developed a LAN Messaging APP, realizing multiuser instant messaging in LAN</td>
@@ -147,46 +147,47 @@ title: Resume
 ### Project
 <table>
   <tr>
-    <td align="left"><ul><li>十三五&nbsp;国家重点研发计划&nbsp;网络空间安全专项</li></ul></td>
-    <td align="right" rowspan="3" style="vertical-align: text-top">2017.7&nbsp;-&nbsp;2020.12</td>
+    <td align="left"><ul><li>The 13th Five-year&nbsp;<strong>National Key Research and Development Plan</strong>&nbsp;Special of Cyberspace Security</li></ul></td>
+    <td align="right" rowspan="3" style="vertical-align: text-top">July. 2017&nbsp;-&nbsp;Dec. 2020</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;----作为核心成员负责项目(课题)的申请及完成工作</td>
+    <td align="left">&emsp;&emsp;----Responsible for project application and implementation as a core member</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;----课题“SDN/NFV与NDN安全研究”牵头单位,主要负责SDN/NFV网络攻击主动防御机制的设计及系统实现，并通过试验网验证</td>
+    <td align="left">&emsp;&emsp;----As Leading Unit of “Research of the security of SDN/NFV and NDN”, we responsible for the design and implementation of active defense mechanism of network attack in SDN/NFV</td>
   </tr>
   <tr>
-    <td align="left"><ul><li>浙江省重点研发计划&nbsp;云计算安全及服务系统研发及应用</li></ul></td>
-    <td align="right" rowspan="3" style="vertical-align: text-top">2017.7&nbsp;-&nbsp;2020.6</td>
+    <td align="left"><ul><li><strong>Key Research and Development Plan of Zhejiang Province</strong>&emsp;The Security of Cloud and Development and Application of Aervice System</li></ul></td>
+    <td align="right" rowspan="3" style="vertical-align: text-top">July. 2017&nbsp;-&nbsp;Jun. 2020</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;----作为核心成员负责项目的申请及完成工作</td>
+    <td align="left">&emsp;&emsp;----Responsible for project application and implementation as a core member</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;----项目“内生安全的云计算系统主动防御技术研究与应用”牵头单位,主要负责基于SDN的云环境中攻击主动防御机制的设计及系统实现</td>
+    <td align="left">&emsp;&emsp;----As Leading Unit of “Research and application of active defense technology for endogenetic security cloud computing system
+”, we responsible for the design and implementation of active defense mechanism of network attack in SDN-based Cloud</td>
   </tr>
   <tr>
     <td align="left"><ul><li>SDNKeeper</li></ul></td>
-    <td align="right" rowspan="2" style="vertical-align: text-top">2017.3&nbsp;-&nbsp;11</td>
+    <td align="right" rowspan="2" style="vertical-align: text-top">Mar.&nbsp;-&nbsp;Nov. 2017</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;----应用于基于SDN的云环境的网络资源管控机制，可灵活管控网络资源，管控网络访问请求，有效抵御越权攻击</td>
+    <td align="left">&emsp;&emsp;----A flexible policy enforcement system for network management in SDN-based Cloud, controlling network deployment and accessing requests to defense unauthorized attack</td>
   </tr>
   <tr>
     <td align="left"><ul><li>RuleScope</li></ul></td>
-    <td align="right" rowspan="2" style="vertical-align: text-top">2015.3&nbsp;-&nbsp;2017.4</td>
+    <td align="right" rowspan="2" style="vertical-align: text-top">Mar. 2015&nbsp;-&nbsp;Apr. 2017</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;----SDN中流表正确性检测方法，可准确检测并定位出流表中存在的优先级错误和规则失效错误</td>
+    <td align="left">&emsp;&emsp;----A detetion and troubleshoot method for <strong>Priority fault</strong> and <strong>Missing fault</strong> in SDN flow tables</td>
   </tr>
   <tr>
-    <td align="left"><ul><li>局域网即时通讯软件</li></ul></td>
-    <td align="right">2014.8&nbsp;-&nbsp;9</td>
+    <td align="left"><ul><li>LAN Instant Messaging Software</li></ul></td>
+    <td align="right">Aug.&nbsp;-&nbsp;Sep. 2014</td>
   </tr>
   <tr>
-    <td align="left"><ul><li>酒店客房管理系统</li></ul></td>
-    <td align="right">2014.6&nbsp;-&nbsp;7</td>
+    <td align="left"><ul><li>Hotel Guestroom Management System</li></ul></td>
+    <td align="right">Jun.&nbsp;-&nbsp;July. 2014</td>
   </tr>
 </table>
  
