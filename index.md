@@ -43,13 +43,30 @@ title: Resume
 </table>
 
 ### Experience
-  * cisco
-
-  * East-Software
-
-  * Student Union
-
-  * Postgraduate Association
+<table>
+  <tr>
+    <td align="left"><ul><li>Intership at Cisco</li></ul></td>
+    <td align="right" rowspan="2" style="vertical-align:text-top">May&nbsp;-&nbsp;Sep. 2016</td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;&emsp;----Developed an SDN controller, used for deploying and managing network for Enterprise Data Center (Alibaba)</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>Intership at Dalian Neusoft </li></ul></td>
+    <td align="right" rowspan="2" style="vertical-align:text-top">Jun&nbsp;-&nbsp;Aug. 2014</td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;&emsp;----Developed a LAN Messaging APP, realizing multiuser instant messaging in LAN</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li><strong>Mnister</strong>&emsp;of Postgraduate Association in CS. ZJU</li></ul></td>
+    <td align="right">Sep. 2015&nbsp;-&nbsp;Jun. 2016</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li><strong>Vice-President</strong>&emsp;of Student Union in CS. HEU</li></ul></td>
+    <td align="right">Sep. 2013&nbsp;-&nbsp;Jun. 2014</td>
+  </tr>
+</table>
 
 ### Honor
   * honorary title
