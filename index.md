@@ -20,7 +20,7 @@ title: Resume
   <tr>
     <td align="left"><strong>Advisor：</strong>Prof. <a href="http://www.cs.northwestern.edu/~ychen/">Yan&nbsp;Chen</a></td>
     <td align="left"><strong>Phone <i class='social fa fa-mobile-phone fa-2x'></i>：</strong>(86)130-7181-1520</td>
-    <td align="left"><strong>Email <i class='social fa fa-envelope fa-2x'></i>：</strong>lengxue_2015@outlook.com</td>
+    <td align="left"><strong>Email <i class='social fa fa-envelope'></i>：</strong>lengxue_2015@outlook.com</td>
   </tr>
 </table>
 

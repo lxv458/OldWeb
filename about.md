@@ -21,7 +21,7 @@ title: 简历
 	<tr>
 		<td align="left"><strong>导&emsp;师：</strong><a href="http://www.cs.northwestern.edu/~ychen/">陈&emsp;焰</a></td>
 		<td align="left"><strong>联系方式 <i class='social fa fa-mobile-phone fa-2x'></i>：</strong>(86)130-7181-1520</td>
-		<td align="left"><strong>邮&emsp;箱 <i class='social fa fa-envelope fa-2x'></i>：</strong>lengxue_2015@outlook.com</td>
+		<td align="left"><strong>邮&emsp;箱 <i class='social fa fa-envelope'></i>：</strong>lengxue_2015@outlook.com</td>
 	</tr>
 </table>
 
@@ -84,7 +84,7 @@ title: 简历
 		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2015.12</td>
 	</tr>
 	<tr>
-		<td align="left"><ul><li>哈尔滨工程大学&nbsp;优秀毕业生 <i class='social fa fa-graduation-cap'></li></ul></td>
+		<td align="left"><ul><li>哈尔滨工程大学&nbsp;优秀毕业生 <i class='social fa fa-graduation-cap'></i>></li></ul></td>
 		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2015.6</td>
 	</tr>
 	<tr>
