@@ -20,8 +20,8 @@ title: 简历
 	</tr>
 	<tr>
 		<td align="left"><strong>导&emsp;师：</strong><a href="http://www.cs.northwestern.edu/~ychen/">陈&emsp;焰</a></td>
-		<td align="left"><strong>联系方式<i class='social fa fa-mobile-phone'></i>：</strong>(86)130-7181-1520</td>
-		<td align="left"><strong>邮&emsp;箱<i class='social fa fa-envelope-o'></i>：</strong>lengxue_2015@outlook.com</td>
+		<td align="left"><strong>联系方式 <i class='social fa fa-mobile-phone fa-2x'></i>：</strong>(86)130-7181-1520</td>
+		<td align="left"><strong>邮&emsp;箱 <i class='social fa fa-envelope fa-2x'></i>：</strong>lengxue_2015@outlook.com</td>
 	</tr>
 </table>
 
@@ -196,9 +196,11 @@ title: 简历
 		<td align="right">2014.6&nbsp;-&nbsp;7</td>
 	</tr>
 </table>
- 
+
+
 ### 科研成果
-  1. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, **Xue Leng**, <a href="http://www.lengxue.space/images/leng/resume/RuleScope_ToN.pdf">"RuleScope: Inspecting Forwarding Faults for Software-Defined Networking"</a>, in ACM/IEEE Transaction on Networking (ToN), Volume 25, Issue 4, Aug. 2017.  <i class='social fa fa-file-pdf-o'></i><i class='social fa fa-file-powerpoint-o'></i>
+  1. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, **Xue Leng**, <a href="http://www.lengxue.space/images/leng/resume/RuleScope_ToN.pdf">"RuleScope: Inspecting Forwarding Faults for Software-Defined Networking"</a>, in ACM/IEEE Transaction on Networking (ToN), Volume 25, Issue 4, Aug. 2017.  <i class='social fa fa-file-pdf-o fa-2x'> PDF   </i><i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides
+
 
 ### 课余活动
 <table>
