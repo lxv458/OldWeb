@@ -19,8 +19,8 @@ title: Resume
   </tr>
   <tr>
     <td align="left"><strong>Advisor：</strong>Prof. <a href="http://www.cs.northwestern.edu/~ychen/">Yan&nbsp;Chen</a></td>
-    <td align="left"><strong>Phone：</strong>(86)130-7181-1520</td>
-    <td align="left"><strong>Email：</strong>lengxue_2015@outlook.com</td>
+    <td align="left"><strong>Phone<i class='social fa fa-mobile-phone'></i>：</strong>(86)130-7181-1520</td>
+    <td align="left"><strong>Email<i class='social fa fa-envelope-o'></i>：</strong>lengxue_2015@outlook.com</td>
   </tr>
 </table>
 
@@ -72,43 +72,43 @@ title: Resume
 <table>
   <tr>
     <td align="left"><ul><li>Outstanding Graduate Award (ZJU)</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Dec. 2017</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Dec. 2017</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Outstanding Graduate Leader Award (ZJU)</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Dec. 2016</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Dec. 2016</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Excellent Athlete (CS. ZJU)</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Dec. 2015</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Dec. 2015</td>
   </tr>
   <tr>
-    <td align="left"><ul><li>Excellent Graduate (HEU)</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Jun. 2015</td>
+    <td align="left"><ul><li>Excellent Graduate (HEU) <i class='social fa fa-graduation-cap'></i></li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Jun. 2015</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Triple-A Student of Heilongjiang Province</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Jun. 2014</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Jun. 2014</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Excellent Volunteer of the 6th International Snow Sculpture Competition of College Students</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Jan. 2014</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Jan. 2014</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Pacemaker to Merit Student of HEU (10/12000)</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Oct. 2013</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Oct. 2013</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Advanced Individual of Summer Social Practice in HEU (2 times)</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Oct. 2012,&nbsp;2013</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Oct. 2012,&nbsp;2013</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Outstanding Youth League Cadre (HEU)</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> May. 2013</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> May. 2013</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Outstanding Youth League Member in HEU (3 times)</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> May. 2012,&nbsp;2013,&nbsp;2015</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> May. 2012,&nbsp;2013,&nbsp;2015</td>
   </tr>
 </table>
 
@@ -116,31 +116,31 @@ title: Resume
 <table>
   <tr>
     <td align="left"><ul><li>National Scholarship</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Dec. 2012</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Dec. 2012</td>
   </tr>
   <tr>
     <td align="left"><ul><li>XX Scholarship</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> May. 2015</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> May. 2015</td>
   </tr>
   <tr>
     <td align="left"><ul><li>First-Class Scholarship of HEU (7 times)</li></ul></td>
-    <td align="right" width="150px"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> 2011 - 2015</td>
+    <td align="right" width="150px"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2011 - 2015</td>
   </tr>
   <tr>
     <td align="left"><ul><li>National Innovation Research Project for College Student</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Oct 2014</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Oct 2014</td>
   </tr>
   <tr>
     <td align="left"><ul><li><strong>Second-class Award</strong> in Heilongjiang Province of the 9th "BoChuang Cap" National College Students' Embedded IoT Design Competition</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Jun. 2014</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Jun. 2014</td>
   </tr>
   <tr>
     <td align="left"><ul><li><strong>Excellence Award</strong> of the 5th "LanQiao Cap" National Competition for Software and Information Technology</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Jun. 2014</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Jun. 2014</td>
   </tr>
   <tr>
     <td align="left"><ul><li><strong>Third-class Award</strong> of the 3rd "SaiBaiTe Cap" National College Students' IoT Design Competition</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-weibo'></i></a> Aug. 2013</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Aug. 2013</td>
   </tr>
 </table>
 
@@ -194,7 +194,7 @@ title: Resume
 </table>
  
 ### Publication 
-  1. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, **Xue Leng**, <a href="http://www.lengxue.space/images/leng/resume/RuleScope_ToN.pdf">"RuleScope: Inspecting Forwarding Faults for Software-Defined Networking"</a>, in ACM/IEEE Transaction on Networking (ToN), Volume 25, Issue 4, Aug. 2017.
+  1. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, **Xue Leng**, <a href="http://www.lengxue.space/images/leng/resume/RuleScope_ToN.pdf">"RuleScope: Inspecting Forwarding Faults for Software-Defined Networking"</a>, in ACM/IEEE Transaction on Networking (ToN), Volume 25, Issue 4, Aug. 2017.  <i class='social fa fa-file-pdf-o'></i><i class='social fa fa-file-powerpoint-o'></i>
 
 ### Activity
 <table>
