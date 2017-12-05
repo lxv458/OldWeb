@@ -14,7 +14,7 @@ title: Resume
   </tr>
   <tr>
     <td align="left">Ph.D. Student</td>
-    <td align="left">College of Computer Science and Technology</td>
+    <td align="left">College of Computer Science &amp; Technology</td>
     <td align="left">Zhejiang University (ZJU)</td>     
   </tr>
   <tr>
@@ -27,14 +27,14 @@ title: Resume
 ### Education
 <table>
   <tr>
-    <td align="left"><ul><li><strong>Ph.D.</strong>&emsp;College of Computer Science and Technology&emsp;Zhejiang University (ZJU)</li></ul></td>
+    <td align="left"><ul><li><strong>Ph.D.</strong>&emsp;College of Computer Science &amp; Technology&emsp;Zhejiang University (ZJU)</li></ul></td>
     <td align="right" rowspan="2" style="vertical-align:text-top">Sep. 2015&nbsp;-&nbsp;Present</td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Research Interests：</strong>&nbsp;the security of SDN/NFV &emsp;&emsp;&emsp;&emsp;<strong>Advisor：</strong>&nbsp;Prof. Yan Chen</td>
   </tr>
   <tr>
-    <td align="left"><ul><li><strong>B.E.</strong>&emsp;College of Computer Science and Technology&emsp;Harbin Engineering University (HEU)</li></ul></td>
+    <td align="left"><ul><li><strong>B.E.</strong>&emsp;College of Computer Science &amp; Technology&emsp;Harbin Engineering University (HEU)</li></ul></td>
     <td align="right" rowspan="2" style="vertical-align:text-top">Sep. 2011&nbsp;-&nbsp;Jun. 2015</td>
   </tr>
   <tr>
@@ -147,7 +147,7 @@ title: Resume
 ### Project
 <table>
   <tr>
-    <td align="left"><ul><li>The 13th Five-year,&nbsp;<strong>National Key R&amp;Development Plan of China</strong>, Special of Cyberspace Security</li></ul></td>
+    <td align="left"><ul><li>The 13th Five-year,&nbsp;<strong>National Key R&amp;D Plan of China</strong>, Special of Cyberspace Security</li></ul></td>
     <td align="right" rowspan="3" style="vertical-align: text-top" width="200px">Jul. 2017&nbsp;-&nbsp;Dec. 2020</td>
   </tr>
   <tr>
