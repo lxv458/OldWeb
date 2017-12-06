@@ -72,7 +72,7 @@ title: Resume
 <table>
   <tr>
     <td align="left"><ul><li>Outstanding Graduate Award (ZJU)</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Dec. 2017</td>
+    <td align="right"> Dec. 2017</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Outstanding Graduate Leader Award (ZJU)</li></ul></td>
@@ -80,35 +80,35 @@ title: Resume
   </tr>
   <tr>
     <td align="left"><ul><li>Excellent Athlete (CS. ZJU)</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Dec. 2015</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/athlete.jpg"><i class='social fa fa-book'></i></a> Dec. 2015</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Excellent Graduate (HEU) <i class='social fa fa-graduation-cap'></i></li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Jun. 2015</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/graduate_heu.jpg"><i class='social fa fa-book'></i></a> Jun. 2015</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Triple-A Student of Heilongjiang Province</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Jun. 2014</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/sh_hlj.jpg"><i class='social fa fa-book'></i></a> Jun. 2014</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Excellent Volunteer of the 6th International Snow Sculpture Competition of College Students</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Jan. 2014</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/snow_volunteer.jpg"><i class='social fa fa-book'></i></a> Jan. 2014</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Pacemaker to Merit Student of HEU (10/12000)</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Oct. 2013</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/shbb_heu.jpg"><i class='social fa fa-book'></i></a> Oct. 2013</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Advanced Individual of Summer Social Practice in HEU (2 times)</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Oct. 2012,&nbsp;2013</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/xjgr.jpg"><i class='social fa fa-book'></i></a> Oct. 2012,&nbsp;2013</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Outstanding Youth League Cadre (HEU)</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> May. 2013</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/youth_leader_heu.jpg"><i class='social fa fa-book'></i></a> May. 2013</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Outstanding Youth League Member in HEU (3 times)</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> May. 2012,&nbsp;2013,&nbsp;2015</td>
+    <td align="right"> May. 2012,&nbsp;2013,&nbsp;2015</td>
   </tr>
 </table>
 
@@ -116,31 +116,39 @@ title: Resume
 <table>
   <tr>
     <td align="left"><ul><li>National Scholarship</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Dec. 2012</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/national_scholarship.jpg"><i class='social fa fa-book'></i></a> Dec. 2012</td>
   </tr>
   <tr>
     <td align="left"><ul><li>XX Scholarship</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> May. 2015</td>
+    <td align="right"> May. 2015</td>
   </tr>
   <tr>
     <td align="left"><ul><li>First-Class Scholarship of HEU (7 times)</li></ul></td>
-    <td align="right" width="150px"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2011 - 2015</td>
+    <td align="right" width="150px"><a href="http://www.lengxue.space/images/leng/resume/first_class_scholarship_heu.jpg"><i class='social fa fa-book'></i></a> 2011 - 2015</td>
   </tr>
   <tr>
     <td align="left"><ul><li>National Innovation Research Project for College Student</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Oct 2014</td>
+    <td align="right"> Oct 2014</td>
   </tr>
   <tr>
     <td align="left"><ul><li><strong>Second-class Award</strong> in Heilongjiang Province of the 9th "BoChuang Cap" National College Students' Embedded IoT Design Competition</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Jun. 2014</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/bochuang.jpg"><i class='social fa fa-book'></i></a> Jun. 2014</td>
   </tr>
   <tr>
     <td align="left"><ul><li><strong>Excellence Award</strong> of the 5th "LanQiao Cap" National Competition for Software and Information Technology</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Jun. 2014</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/lanqiao_national.jpg"><i class='social fa fa-book'></i></a> Jun. 2014</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li><strong>First-class Award</strong> of the 19th Science and Technology Innovation Competition of HEU</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/54cup.jpg"><i class='social fa fa-book'></i></a> Nov. 2013</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li><strong>Third-class Award</strong> of the 7th National College Students' IoT Innovation and Entrepreneurship Competition</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/ican.jpg"><i class='social fa fa-book'></i></a> Sep. 2013</td>
   </tr>
   <tr>
     <td align="left"><ul><li><strong>Third-class Award</strong> of the 3rd "SaiBaiTe Cap" National College Students' IoT Design Competition</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> Aug. 2013</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/saibaite.jpg"><i class='social fa fa-book'></i></a> Aug. 2013</td>
   </tr>
 </table>
 

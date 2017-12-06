@@ -73,7 +73,7 @@ title: 简历
 <table>
 	<tr>
 		<td align="left"><ul><li>浙江大学&nbsp;优秀研究生</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2017.12</td>
+		<td align="right"> 2017.12</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>浙江大学&nbsp;优秀研究生干部</li></ul></td>
@@ -81,35 +81,35 @@ title: 简历
 	</tr>
 	<tr>
 		<td align="left"><ul><li>浙江大学计算机学院&nbsp;优秀运动员</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2015.12</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/athlete_zju.jpg"><i class='social fa fa-book'></i></a> 2015.12</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&nbsp;优秀毕业生 <i class='social fa fa-graduation-cap'></i></li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2015.6</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/graduate_heu.jpg"><i class='social fa fa-book'></i></a> 2015.6</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>黑龙江省&nbsp;三好学生</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2014.6</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/sh_hlj.jpg"><i class='social fa fa-book'></i></a> 2014.6</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>第六届国际雪雕大赛&nbsp;优秀志愿者</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2014.1</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/snow_volunteer.jpg"><i class='social fa fa-book'></i></a> 2014.1</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&nbsp;三好学生标兵 (10/12000)</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2013.10</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/shbb_heu.jpg"><i class='social fa fa-book'></i></a> 2013.10</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&nbsp;暑期社会实践先进个人 (2次)</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2012,&nbsp;2013.10</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/xjgr.jpg"><i class='social fa fa-book'></i></a> 2012,&nbsp;2013.10</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&nbsp;优秀共青团干部</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2013.5</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/youth_leader_heu.jpg"><i class='social fa fa-book'></i></a> 2013.5</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&nbsp;优秀共青团员(3次)</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2012,&nbsp;2013,&nbsp;2015.5</td>
+		<td align="right"> 2012,&nbsp;2013,&nbsp;2015.5</td>
 	</tr>
 </table>
 
@@ -117,31 +117,39 @@ title: 简历
 <table>
 	<tr>
 		<td align="left"><ul><li>国家奖学金</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2012.12</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/national_scholarship.jpg"><i class='social fa fa-book'></i></a> 2012.12</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>XX奖学金</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2015.5</td>
+		<td align="right"> 2015.5</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&nbsp;一等奖学金(7次)</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2011&nbsp;-&nbsp;2015</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/first_class_scholarship.jpg"><i class='social fa fa-book'></i></a> 2011&nbsp;-&nbsp;2015</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>国家大学生创新科研立项</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2014.10</td>
+		<td align="right"> 2014.10</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>第九届“博创杯”全国大学生嵌入式物联网设计大赛&nbsp;黑龙江省二等奖</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2014.6</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/bochuang.jpg"><i class='social fa fa-book'></i></a> 2014.6</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>第五届“蓝桥杯”全国软件和信息技术专业人才大赛全国总决赛&nbsp;优秀奖</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2014.6</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/lanqiao_national.jpg"><i class='social fa fa-book'></i></a> 2014.6</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>第十九届哈尔滨工程大学“五四杯”学生科技创新大赛&nbsp;一等奖</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/54cup.jpg"><i class='social fa fa-book'></i></a> 2013.11</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>第七届中国大学生物联网创新创业大赛&nbsp;国家三等奖</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/ican.jpg"><i class='social fa fa-book'></i></a> 2013.9</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>第三届“赛佰特杯”全国大学生物联网设计大赛&nbsp;国家三等奖</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/excellent_leader_zju.jpg"><i class='social fa fa-book'></i></a> 2013.8</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/saibaite.jpg"><i class='social fa fa-book'></i></a> 2013.8</td>
 	</tr>
 </table>
 
