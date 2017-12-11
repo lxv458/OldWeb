@@ -59,7 +59,7 @@ title: Resume
     <td align="left">&emsp;&emsp;&emsp;----Developed a LAN Messaging APP, realizing multiuser instant messaging in LAN</td>
   </tr>
   <tr>
-    <td align="left"><ul><li><strong>Mnister</strong>&nbsp;of Postgraduate Association in CS. ZJU</li></ul></td>
+    <td align="left"><ul><li><strong>Minister</strong>&nbsp;of Postgraduate Association in CS. ZJU</li></ul></td>
     <td align="right">Sep. 2015&nbsp;-&nbsp;Jun. 2016</td>
   </tr>
   <tr>
