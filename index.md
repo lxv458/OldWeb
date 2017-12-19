@@ -119,7 +119,7 @@ title: Resume
     <td align="right"><a href="http://www.lengxue.space/images/leng/resume/national_scholarship.jpg"><i class='social fa fa-book'></i></a> Dec. 2012</td>
   </tr>
   <tr>
-    <td align="left"><ul><li>XX Scholarship</li></ul></td>
+    <td align="left"><ul><li>BaoLongDa Scholarship</li></ul></td>
     <td align="right"> May. 2015</td>
   </tr>
   <tr>
