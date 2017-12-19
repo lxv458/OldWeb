@@ -120,7 +120,7 @@ title: 简历
 		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/national_scholarship.jpg"><i class='social fa fa-book'></i></a> 2012.12</td>
 	</tr>
 	<tr>
-		<td align="left"><ul><li>XX奖学金</li></ul></td>
+		<td align="left"><ul><li>宝龙达奖学金</li></ul></td>
 		<td align="right"> 2015.5</td>
 	</tr>
 	<tr>
