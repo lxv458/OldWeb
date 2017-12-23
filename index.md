@@ -227,7 +227,7 @@ title: Resume
     <td align="right">Jul. 2012</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;&emsp;----Tailai County, Qigihar, Heilongjiang</td>
+    <td align="left">&emsp;&emsp;&emsp;----Tailai County, Qiqihar, Heilongjiang</td>
     <td align="right">Jul. 2013</td>
   </tr>
   <tr>
