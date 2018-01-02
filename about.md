@@ -39,7 +39,7 @@ title: 简历
 		<td align="right" rowspan="2" style="vertical-align:text-top">2011.9&nbsp;-&nbsp;2015.6</td>
 	</tr>
 	<tr>
-		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>成绩排名：</strong>&nbsp;2/159 &emsp;&emsp;&emsp;&emsp;<strong>平均分：</strong>&nbsp;91.19</td>
+		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>成绩排名：</strong>&nbsp;2/159 &emsp;&emsp;&emsp;&emsp;<strong>平均分：</strong>&nbsp;91.19 &emsp;<a href="http://www.lengxue.space/images/leng/resume/score_heu.jpg"><i class='social fa fa-book'></i></a></td>
 	</tr>
 </table>
 

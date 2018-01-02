@@ -38,7 +38,7 @@ title: Resume
     <td align="right" rowspan="2" style="vertical-align:text-top">Sep. 2011&nbsp;-&nbsp;Jun. 2015</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Rank：</strong>&nbsp;2/159 &emsp;&emsp;&emsp;&emsp;<strong>Average：</strong>&nbsp;91.19</td>
+    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Rank：</strong>&nbsp;2/159 &emsp;&emsp;&emsp;&emsp;<strong>Average：</strong>&nbsp;91.19 &emsp;<a href="http://www.lengxue.space/images/leng/resume/score_heu.jpg"><i class='social fa fa-book'></i></a></td>
   </tr>
 </table>
 
