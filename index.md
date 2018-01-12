@@ -71,8 +71,8 @@ title: Resume
 ### Honor
 <table>
   <tr>
-    <td align="left"><ul><li>Outstanding Graduate Award (ZJU)</li></ul></td>
-    <td align="right"> Dec. 2017</td>
+    <td align="left"><ul><li>Award of Honor for Graduate (ZJU)</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/yxyjs_zju.jpg"><i class='social fa fa-book'></i></a> Dec. 2017</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Outstanding Graduate Leader Award (ZJU)</li></ul></td>
