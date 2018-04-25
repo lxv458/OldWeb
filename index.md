@@ -18,7 +18,7 @@ title: Resume
     <td align="left">Zhejiang University (ZJU)</td>     
   </tr>
   <tr>
-    <td align="left"><strong>Advisor：</strong>Prof. <a href="http://www.cs.northwestern.edu/~ychen/">Yan&nbsp;Chen</a></td>
+    <td align="left"><strong>Supervisor：</strong>Prof. <a href="http://www.cs.northwestern.edu/~ychen/">Yan&nbsp;Chen</a></td>
     <td align="left"><strong>Phone <i class='social fa fa-mobile-phone fa-2x'></i>：</strong>(86)130-7181-1520</td>
     <td align="left"><strong>Email <i class='social fa fa-envelope'></i>：</strong>lengxue_2015@outlook.com</td>
   </tr>
@@ -31,7 +31,7 @@ title: Resume
     <td align="right" rowspan="2" style="vertical-align:text-top">Sep. 2015&nbsp;-&nbsp;Present</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Research Interests：</strong>&nbsp;the security of SDN/NFV &emsp;&emsp;&emsp;&emsp;<strong>Advisor：</strong>&nbsp;Prof. Yan Chen</td>
+    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Research Interests：</strong>&nbsp;the security of SDN/NFV &emsp;&emsp;&emsp;&emsp;<strong>Supervisor：</strong>&nbsp;Prof. Yan Chen</td>
   </tr>
   <tr>
     <td align="left"><ul><li><strong>B.E.</strong>&emsp;College of Computer Science &amp; Technology&emsp;Harbin Engineering University (HEU)</li></ul></td>
@@ -202,7 +202,7 @@ title: Resume
 </table>
  
 ### Publication 
-  1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, <a href="http://www.lengxue.space/images/leng/resume/SDNKeeper_IWQoS2018.pdf">"SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud."</a> IEEE International Symposium of Quality of Service IWQOS(2018):xxx-xxx.  &emsp;&emsp;<a href="http://www.lengxue.space/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides
+  1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, <a href="http://www.lengxue.space/images/leng/resume/SDNKeeper_IWQoS2018.pdf">"SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud."</a> In Quality of Service (IWQoS), 2018 IEEE/ACM 26th International Symposium on, pp. x-xx. IEEE, 2018.  &emsp;&emsp;<a href="http://www.lengxue.space/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides
   2. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, **Xue Leng**, <a href="http://www.lengxue.space/images/leng/resume/RuleScope_ToN.pdf">"RuleScope: Inspecting Forwarding Faults for Software-Defined Networking"</a>, in ACM/IEEE Transaction on Networking (ToN), Volume 25, Issue 4, Aug. 2017. &emsp;&emsp; <a href="http://www.lengxue.space/images/leng/resume/RuleScope_ToN.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides
 
 ### Activity
