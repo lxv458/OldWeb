@@ -47,7 +47,7 @@ title: 简历
 <table>
 	<tr>
 		<td align="left"><ul><li>IEEE/ACM IWQoS 2018&emsp;班芙, 加拿大&emsp;论文汇报</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/sh_hlj.jpg"><i class='social fa fa-book'></i></a>  2018.06.04&nbsp;-&nbsp;06</td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/sh_hlj.jpg"><i class='social fa fa-book'></i></a>  2018.6.4&nbsp;-&nbsp;2018.6.6</td>
 	</tr>	
 	<tr>
 		<td align="left"><ul><li>中国思科--实习</li></ul></td>
