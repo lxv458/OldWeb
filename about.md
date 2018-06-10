@@ -46,6 +46,10 @@ title: 简历
 ### 经历
 <table>
 	<tr>
+		<td align="left"><ul><li>IEEE/ACM IWQoS 2018&emsp;班芙, 加拿大&emsp;论文汇报</li></ul></td>
+		<td align="right">2018.06.04&nbsp;-&nbsp;2018.06.06</td>
+	</tr>	
+	<tr>
 		<td align="left"><ul><li>中国思科--实习</li></ul></td>
 		<td align="right" rowspan="2" style="vertical-align:text-top">2016.5&nbsp;-&nbsp;9</td>
 	</tr>
