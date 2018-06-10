@@ -46,7 +46,7 @@ title: Resume
 <table>
   <tr>
     <td align="left"><ul><li>IEEE/ACM IWQoS 2018&emsp;Banff, Canada&emsp;Paper Presentation</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/sh_hlj.jpg"><i class='social fa fa-book'></i></a>4-6 Jun. 2018</td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/sh_hlj.jpg"><i class='social fa fa-book'></i></a>  4-6 Jun. 2018</td>
   </tr>	
   <tr>
     <td align="left"><ul><li><strong>Intership</strong>&nbsp;at Cisco</li></ul></td>
