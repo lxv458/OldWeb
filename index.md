@@ -38,7 +38,7 @@ title: Resume
     <td align="right" rowspan="2" style="vertical-align:text-top">Sep. 2011&nbsp;-&nbsp;Jun. 2015</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Rank：</strong>&nbsp;2/159 &emsp;&emsp;&emsp;&emsp;<strong>Average：</strong>&nbsp;91.19 &emsp;<a href="http://www.lengxue.space/images/leng/resume/score_heu.jpg"><i class='social fa fa-book'></i></a></td>
+    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Rank：</strong>&nbsp;2/159 &emsp;&emsp;&emsp;&emsp;<strong>GPA：</strong>&nbsp;3.63/4.00 &emsp;&emsp;&emsp;&emsp;&emsp;<strong>Average：</strong>&nbsp;91.19 &emsp;<a href="http://www.lengxue.space/images/leng/resume/score_heu.jpg"><i class='social fa fa-book'></i></a></td>
   </tr>
 </table>
 
@@ -49,14 +49,14 @@ title: Resume
     <td align="right"><a href="http://www.lengxue.space/images/leng/resume/iwqos2018_presentation.png"><i class='social fa fa-book'></i></a>  4-6 Jun. 2018</td>
   </tr>	
   <tr>
-    <td align="left"><ul><li><strong>Intership</strong>&nbsp;at Cisco</li></ul></td>
+    <td align="left"><ul><li><strong>Internship</strong>&nbsp;at Cisco</li></ul></td>
     <td align="right" rowspan="2" style="vertical-align:text-top">May.&nbsp;-&nbsp;Sep. 2016</td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;&emsp;----Developed an SDN controller, used for deploying and managing network for Enterprise Data Center (Alibaba)</td>
   </tr>
   <tr>
-    <td align="left"><ul><li><strong>Intership</strong>&nbsp;at Dalian Neusoft </li></ul></td>
+    <td align="left"><ul><li><strong>Internship</strong>&nbsp;at Dalian Neusoft </li></ul></td>
     <td align="right" rowspan="2" style="vertical-align:text-top">Jun.&nbsp;-&nbsp;Aug. 2014</td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@ title: Resume
     <td align="right" rowspan="3" style="vertical-align: text-top">Mar.&nbsp;-&nbsp;Nov. 2017</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;----A flexible policy enforcement system for network management in SDN-based Cloud</td>
+    <td align="left">&emsp;&emsp;----A lightweight access control system for protecting and managing resources for SDN-based Cloud</td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;----Controlling network deployment and accessing requests to defense unauthorized attack</td>
