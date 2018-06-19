@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: Resume (<a href="http://www.lengxue.space/images/leng/resume/cv_English.pdf">PDF</a>)
 ---
 <table>
   <tr>
@@ -240,3 +240,5 @@ title: Resume
     <td align="right">Dec. 2011</td>
   </tr>
 </table>
+
+Download <a href="http://www.lengxue.space/images/leng/resume/cv_English.pdf">PDF File</a>
