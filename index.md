@@ -45,8 +45,8 @@ title: Resume
 ### Experience
 <table>
   <tr>
-    <td align="left"><ul><li><strong>Paper Presentation</strong> at the conference of IEEE/ACM <strong>IWQoS 2018</strong>&emsp;(CCF B)&emsp;Banff, Canada</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/iwqos2018_presentation.png"><i class='social fa fa-book'></i></a>  4-6 Jun. 2018</td>
+    <td align="left"><ul><li><strong>Paper Presentation</strong> at the conference of IEEE/ACM <strong>IWQoS 2018</strong> (CCF B)&emsp;Banff, Canada</li></ul></td>
+    <td align="right"><a href="http://www.lengxue.space/images/leng/resume/iwqos2018_presentation.jpg"><i class='social fa fa-book'></i></a>  4-6 Jun. 2018</td>
   </tr>	
   <tr>
     <td align="left"><ul><li><strong>Internship</strong>&nbsp;at Cisco</li></ul></td>

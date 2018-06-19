@@ -46,8 +46,8 @@ title: 简历
 ### 经历
 <table>
 	<tr>
-		<td align="left"><ul><li>国际会议IEEE/ACM <strong>IWQoS 2018</strong>&emsp;(CCF B)&emsp;班芙, 加拿大&emsp;--论文展示</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/iwqos2018_presentation.png"><i class='social fa fa-book'></i></a>  2018.6.4&nbsp;-&nbsp;2018.6.6</td>
+		<td align="left"><ul><li>国际会议IEEE/ACM <strong>IWQoS 2018</strong> (CCF B)&emsp;班芙, 加拿大&emsp;--论文展示</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.space/images/leng/resume/iwqos2018_presentation.jpg"><i class='social fa fa-book'></i></a>  2018.6.4&nbsp;-&nbsp;2018.6.6</td>
 	</tr>	
 	<tr>
 		<td align="left"><ul><li>中国思科--实习</li></ul></td>
