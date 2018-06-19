@@ -45,7 +45,7 @@ title: Resume
 ### Experience
 <table>
   <tr>
-    <td align="left"><ul><li>IEEE/ACM IWQoS 2018&emsp;Banff, Canada&emsp;Paper Presentation</li></ul></td>
+    <td align="left"><ul><li><strong>Paper Presentation</strong> at the conference of IEEE/ACM <strong>IWQoS 2018</strong>&emsp;(CCF B)&emsp;Banff, Canada</li></ul></td>
     <td align="right"><a href="http://www.lengxue.space/images/leng/resume/iwqos2018_presentation.png"><i class='social fa fa-book'></i></a>  4-6 Jun. 2018</td>
   </tr>	
   <tr>
@@ -72,7 +72,7 @@ title: Resume
   </tr>
 </table>
 
-### Honor
+### Honors
 <table>
   <tr>
     <td align="left"><ul><li>Award of Honor for Graduate (ZJU)</li></ul></td>
