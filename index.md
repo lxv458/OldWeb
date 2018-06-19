@@ -72,7 +72,7 @@ title: Resume
   </tr>
 </table>
 
-### Honors
+### Honor
 <table>
   <tr>
     <td align="left"><ul><li>Award of Honor for Graduate (ZJU)</li></ul></td>
