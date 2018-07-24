@@ -34,6 +34,13 @@ title: Resume (<a href="http://www.lengxue.space/images/leng/resume/cv_English.p
     <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Research Interests：</strong>&nbsp;the security of SDN/NFV &emsp;&emsp;&emsp;&emsp;<strong>Supervisor：</strong>&nbsp;Prof. Yan Chen</td>
   </tr>
   <tr>
+    <td align="left"><ul><li><strong>Visiting Scholar</strong>&emsp;Electrical Engineering and Computer Science Department &emsp;Northwestern University (NU), USA. </li></ul></td>
+    <td align="right" rowspan="2" style="vertical-align:text-top">Oct. 2018&nbsp;-&nbsp;Present</td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Research Interests：</strong>&nbsp;the security and reliability of SDN/NFV, 5G protocols verification &emsp;&emsp;&emsp;&emsp;<strong>Supervisor：</strong>&nbsp;Prof. Hai Zhou</td>
+  </tr>
+  <tr>
     <td align="left"><ul><li><strong>B.E.</strong>&emsp;College of Computer Science &amp; Technology&emsp;Harbin Engineering University (HEU)</li></ul></td>
     <td align="right" rowspan="2" style="vertical-align:text-top">Sep. 2011&nbsp;-&nbsp;Jun. 2015</td>
   </tr>
@@ -193,7 +200,7 @@ title: Resume (<a href="http://www.lengxue.space/images/leng/resume/cv_English.p
     <td align="right" rowspan="2" style="vertical-align: text-top">Mar. 2015&nbsp;-&nbsp;Apr. 2017</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;----A detetion and troubleshoot method for <strong>Priority fault</strong> and <strong>Missing fault</strong> in SDN flow tables</td>
+    <td align="left">&emsp;&emsp;----A detection and troubleshoot method for <strong>Priority fault</strong> and <strong>Missing fault</strong> in SDN flow tables</td>
   </tr>
   <tr>
     <td align="left"><ul><li>LAN Instant Messaging Software</li></ul></td>
