@@ -32,14 +32,14 @@ title: 简历
 		<td align="right" rowspan="2" style="vertical-align:text-top">2015.9&nbsp;-&nbsp;至今</td>
 	</tr>
 	<tr>
-		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN/NFV网络安全研究 &emsp;&emsp;&emsp;&emsp;<strong>导&emsp;师：</strong>&nbsp;陈&emsp;焰</td>
+		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN/NFV网络安全性与可靠性研究 &emsp;&emsp;&emsp;&emsp;<strong>导&emsp;师：</strong>&nbsp;陈&emsp;焰</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>美国 西北大学&emsp;电子工程与计算机科学学院&emsp;访问学者</li></ul></td>
 		<td align="right" rowspan="2" style="vertical-align:text-top">2018.10&nbsp;-&nbsp;至今</td>
 	</tr>
 	<tr>
-		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN/NFV网络安全与可靠性研究，5G协议验证 &emsp;&emsp;&emsp;&emsp;<strong>导&emsp;师：</strong>&nbsp;Hai Zhou</td>
+		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN/NFV网络安全性与可靠性研究，5G协议验证 &emsp;&emsp;&emsp;&emsp;<strong>导&emsp;师：</strong>&nbsp;Hai Zhou</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学&emsp;计算机科学与技术学院&emsp;学士</li></ul></td>

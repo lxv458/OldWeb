@@ -31,7 +31,7 @@ title: Resume (<a href="http://www.lengxue.space/images/leng/resume/cv_English.p
     <td align="right" rowspan="2" style="vertical-align:text-top">Sep. 2015&nbsp;-&nbsp;Present</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Research Interests：</strong>&nbsp;the security of SDN/NFV &emsp;&emsp;&emsp;&emsp;<strong>Supervisor：</strong>&nbsp;Prof. Yan Chen</td>
+    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Research Interests：</strong>&nbsp;the security and reliability of SDN/NFV &emsp;&emsp;&emsp;&emsp;<strong>Supervisor：</strong>&nbsp;Prof. Yan Chen</td>
   </tr>
   <tr>
     <td align="left"><ul><li><strong>Visiting Scholar</strong>&emsp;Electrical Engineering and Computer Science Department &emsp;Northwestern University (NU), USA. </li></ul></td>
