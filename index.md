@@ -213,13 +213,13 @@ title: Resume (<a href="http://www.lengxue.space/images/leng/resume/cv_English.p
 </table>
  
 ### Publication
-Conference:
+**Conference**:
   1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, <a href="http://www.lengxue.space/images/leng/resume/SDNKeeper_IWQoS2018.pdf">"SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud."</a> in Proc. of IEEE/ACM International Symposium on Quality of Service (**IWQoS**) Banff, Alberta, Canada, June 4-6, 2018.  &emsp;&emsp;<a href="http://www.lengxue.space/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<a href="http://www.lengxue.space/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides</a>
 
-Journal:
+**Journal**:
   1. Yinbo Yu, Xing Li, **Xue Leng**, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, and Xin Xiao. <a href="http://www.lengxue.space/images/leng/resume/Fault Management in Software-Defined Networking A Survey.pdf">"Fault Management in Software-Defined Networking: A Survey"</a>, IEEE Communications Surveys & Tutorials xx, no. xx (2018): xx-xx. (Early Access)  &emsp;&emsp;<a href="http://www.lengxue.space/images/leng/resume/Fault Management in Software-Defined Networking A Survey.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>
 
-  2. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. <a href="http://www.lengxue.space/images/leng/resume/RuleScope_ToN.pdf">"RuleScope: Inspecting Forwarding Faults for Software-Defined Networking"</a>, in ACM/IEEE Transaction on Networking (**ToN**) 25, no. 4 (2017): 2347-2360. &emsp;&emsp;<a href="http://www.lengxue.space/images/leng/resume/RuleScope_ToN.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<a href="http://www.lengxue.space/images/leng/resume/SDN-RuleScope.pptx"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides </a>
+  2. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. <a href="http://www.lengxue.space/images/leng/resume/RuleScope_ToN.pdf">"RuleScope: Inspecting Forwarding Faults for Software-Defined Networking"</a>, in ACM/IEEE Transaction on Networking (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360. &emsp;&emsp;<a href="http://www.lengxue.space/images/leng/resume/RuleScope_ToN.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<a href="http://www.lengxue.space/images/leng/resume/SDN-RuleScope.pptx"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides </a>
 
 ### Activity
 <table>
