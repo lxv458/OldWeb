@@ -218,8 +218,10 @@ title: Resume (<a href="http://www.lengxue.info/images/leng/resume/cv_English.pd
 
 **Journal**:
   1. Yinbo Yu, Xing Li, **Xue Leng**, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, and Xin Xiao. <a href="http://www.lengxue.info/images/leng/resume/Fault Management in Software-Defined Networking A Survey.pdf">"Fault Management in Software-Defined Networking: A Survey"</a>, IEEE Communications Surveys & Tutorials xx, no. xx (2018): xx-xx. (Early Access)  &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/Fault Management in Software-Defined Networking A Survey.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>
+  
+  2. Yan Chen, Xitao Wen, **Xue Leng**, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu. "Optimization Framework for Minimizing Rule Update Latency in SDN Switches", ZTE Communications, 2018(4).
 
-  2. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. <a href="http://www.lengxue.info/images/leng/resume/RuleScope_ToN.pdf">"RuleScope: Inspecting Forwarding Faults for Software-Defined Networking"</a>, in ACM/IEEE Transaction on Networking (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360. &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/RuleScope_ToN.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/SDN-RuleScope.pptx"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides </a>
+  3. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. <a href="http://www.lengxue.info/images/leng/resume/RuleScope_ToN.pdf">"RuleScope: Inspecting Forwarding Faults for Software-Defined Networking"</a>, in ACM/IEEE Transaction on Networking (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360. &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/RuleScope_ToN.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/SDN-RuleScope.pptx"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides </a>
 
 ### Activity
 <table>
