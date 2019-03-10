@@ -5,7 +5,7 @@ title: Resume (<a href="http://www.lengxue.info/images/leng/resume/cv_English.pd
   <tr>
     <td rowspan="4">&nbsp;</td>
     <td align="center" colspan="3">&nbsp;</td>
-    <td align="center" rowspan="4" style="vertical-align:middle"><img src="/images/leng/resume/myself1.jpg" width="140" height="180" /></td>
+    <td align="center" rowspan="4" style="vertical-align:middle"><img src="/images/leng/resume/myself2.jpg" width="140" height="180" /></td>
   </tr>
   <tr>
     <td align="left">Xue&nbsp;Leng</td>
