@@ -31,11 +31,11 @@ title: Resume (<a href="http://www.lengxue.info/images/leng/resume/cv_English.pd
     <td align="right" rowspan="2" style="vertical-align:text-top">Sep. 2015&nbsp;-&nbsp;Present</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Research Interests：</strong>&nbsp;the security and reliability of SDN/NFV &emsp;&emsp;&emsp;&emsp;<strong>Supervisor：</strong>&nbsp;Prof. Yan Chen</td>
+    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Research Interests：</strong>&nbsp;the security and reliability of SDN/NFV, microservices &emsp;&emsp;&emsp;&emsp;<strong>Supervisor：</strong>&nbsp;Prof. Yan Chen</td>
   </tr>
   <tr>
     <td align="left"><ul><li><strong>Visiting Scholar</strong>&emsp;Electrical Engineering and Computer Science Department &emsp;Northwestern University (NU), USA. </li></ul></td>
-    <td align="right" rowspan="2" style="vertical-align:text-top">Oct. 2018&nbsp;-&nbsp;Present</td>
+    <td align="right" rowspan="2" style="vertical-align:text-top">Oct. 2018&nbsp;-&nbsp;Jun. 2019</td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Research Interests：</strong>&nbsp;the security and reliability of SDN/NFV, 5G protocols verification &emsp;&emsp;&emsp;&emsp;<strong>Supervisor：</strong>&nbsp;Prof. Hai Zhou</td>
@@ -221,11 +221,13 @@ title: Resume (<a href="http://www.lengxue.info/images/leng/resume/cv_English.pd
   1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, "SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud." in 2018 IEEE/ACM 26th International Symposium on Quality of Service (**IWQoS**), pp. 1-10, Banff, Alberta, Canada, June 4-6, 2018.  &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides</a>
 
 **Journal**:
-  1. Yinbo Yu, Xing Li, **Xue Leng**, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, and Xin Xiao. "Fault Management in Software-Defined Networking: A Survey", IEEE Communications Surveys & Tutorials, Volume 25, Issue 4, (2019): 349-392.
+  1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, You Li. "A Lightweight Policy Enforcement System for Resource Protection and Management in the SDN-based Cloud", Computer Networks (**CN**), Volume xx, Issue xx, (2019): xx-xx.
   
-  2. Yan Chen, Xitao Wen, **Xue Leng**, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu. "Optimization Framework for Minimizing Rule Update Latency in SDN Switches", ZTE Communications, 2018(4).
+  2. Yinbo Yu, Xing Li, **Xue Leng**, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, and Xin Xiao. "Fault Management in Software-Defined Networking: A Survey", IEEE Communications Surveys & Tutorials (**COMST**), Volume 25, Issue 4, (2019): 349-392.
+  
+  3. Yan Chen, Xitao Wen, **Xue Leng**, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu. "Optimization Framework for Minimizing Rule Update Latency in SDN Switches", ZTE Communications, 2018(4).
 
-  3. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in ACM/IEEE Transaction on Networking (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360.
+  4. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in ACM/IEEE Transaction on Networking (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360.
 
 ### Activity
 <table>
