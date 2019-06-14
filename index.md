@@ -221,7 +221,7 @@ title: Resume (<a href="http://www.lengxue.info/images/leng/resume/cv_English.pd
   1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, "SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud." in *2018 IEEE/ACM 26th International Symposium on Quality of Service* (**IWQoS**), pp. 1-10, Banff, Alberta, Canada, June 4-6, 2018.  &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides</a>
 
 **Journal**:
-  1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, You Li. "A Lightweight Policy Enforcement System for Resource Protection and Management in the SDN-based Cloud", *Computer Networks* (**CN**), Volume xx, Issue xx, (2019): xx-xx.
+  1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, You Li. "A Lightweight Policy Enforcement System for Resource Protection and Management in the SDN-based Cloud", *Computer Networks* (**CN**), Volume xx, Issue xx, (2019): xx-xx. DOI: 10.1016/j.comnet.2019.05.022
   
   2. Yinbo Yu, Xing Li, **Xue Leng**, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, and Xin Xiao. "Fault Management in Software-Defined Networking: A Survey", *IEEE Communications Surveys & Tutorials* (**COMST**), Volume 25, Issue 4, (2019): 349-392.
   
