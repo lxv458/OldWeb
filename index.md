@@ -110,7 +110,7 @@ title: Resume (<a href="http://www.lengxue.info/images/leng/resume/cv_English.pd
     <td align="right"><a href="http://www.lengxue.info/images/leng/resume/snow_volunteer.jpg"><i class='social fa fa-book'></i></a> Jan. 2014</td>
   </tr>
   <tr>
-    <td align="left"><ul><li>Pacemaker to Merit Student of HEU (10/12000)</li></ul></td>
+    <td align="left"><ul><li>Triple-A Student Pacemsetter of HEU (10/12000)</li></ul></td>
     <td align="right"><a href="http://www.lengxue.info/images/leng/resume/shbb_heu.jpg"><i class='social fa fa-book'></i></a> Oct. 2013</td>
   </tr>
   <tr>
