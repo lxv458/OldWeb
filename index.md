@@ -222,7 +222,7 @@ title: Resume (<a href="http://www.lengxue.info/images/leng/resume/cv_English.pd
   2. **Xue Leng**, Tzung-Han Juang, Yan Chen, Han Liu. AOMO: an AI-aided Optimizer for Microservices Orchestration. In Proceedings of SIGCOMM Posters and Demos, Beijing, China, August 19–23, 2019
 
 **Journal**:
-  1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, You Li. "A Lightweight Policy Enforcement System for Resource Protection and Management in the SDN-based Cloud", *Computer Networks* (**CN**), Volume xx, Issue xx, (2019): xx-xx. DOI: 10.1016/j.comnet.2019.05.022
+  1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, You Li. "A Lightweight Policy Enforcement System for Resource Protection and Management in the SDN-based Cloud", *Computer Networks* (**CN**), Volume 161, Issue C, (2019): 68-81. <a href="https://www.sciencedirect.com/science/article/pii/S1389128618314129?dgcid=coauthor"> DOI: 10.1016/j.comnet.2019.05.022</a>
   
   2. Yinbo Yu, Xing Li, **Xue Leng**, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, and Xin Xiao. "Fault Management in Software-Defined Networking: A Survey", *IEEE Communications Surveys & Tutorials* (**COMST**), Volume 25, Issue 4, (2019): 349-392.
   
