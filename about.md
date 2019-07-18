@@ -84,7 +84,7 @@ title: 简历
 <table>
 	<tr>
 		<td align="left"><ul><li>浙江大学&nbsp;优秀研究生</li></ul></td>
-		<td align="right"><a href="http://www.lengxue.info/images/leng/resume/yxyjs_zju.jpg"><i class='social fa fa-book'></i></a> 2018.12</td>
+		<td align="right"><a href="http://www.lengxue.info/images/leng/resume/ZJUstudent2018.jpg"><i class='social fa fa-book'></i></a> 2018.12</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>浙江大学&nbsp;优秀研究生</li></ul></td>
