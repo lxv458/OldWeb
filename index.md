@@ -83,7 +83,7 @@ title: Resume (<a href="http://www.lengxue.info/images/leng/resume/cv_English.pd
 <table>
   <tr>
     <td align="left"><ul><li>Award of Honor for Graduate (ZJU)</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.info/images/leng/resume/yxyjs18_zju.jpg"><i class='social fa fa-book'></i></a> Dec. 2018</td>
+    <td align="right"><a href="http://www.lengxue.info/images/leng/resume/ZJUstudent2018.jpg"><i class='social fa fa-book'></i></a> Dec. 2018</td>
   </tr>
   <tr>
     <td align="left"><ul><li>Award of Honor for Graduate (ZJU)</li></ul></td>
