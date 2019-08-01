@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 简历 
+title: 简历 (<a href="http://www.lengxue.info/images/leng/resume/cv_Chinese.pdf">PDF</a>)
 ---
 <table>
 	<tr>
@@ -267,3 +267,5 @@ title: 简历
 		<td align="right">2011.12</td>
 	</tr>
 </table>
+
+<a href="http://www.lengxue.info/images/leng/resume/cv_Chinese.pdf">下载PDF</a>
