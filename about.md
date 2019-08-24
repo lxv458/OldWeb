@@ -53,9 +53,13 @@ title: 简历 (<a href="http://www.lengxue.info/images/leng/resume/cv_Chinese.pd
 ### 经历
 <table>
 	<tr>
-		<td align="left"><ul><li>国际会议IEEE/ACM <strong>IWQoS 2018</strong> (CCF B)&emsp;班芙, 加拿大&emsp;--论文展示</li></ul></td>
+		<td align="left"><ul><li>国际会议ACM <strong>SIGCOMM 2019</strong> (CCF A)&emsp;中国 北京&emsp;--论文展示</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.info/images/leng/resume/sigcomm2019_presentation.jpg"><i class='social fa fa-book'></i></a>  2019.8.19&nbsp;-&nbsp;2019.8.23</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>国际会议IEEE/ACM <strong>IWQoS 2018</strong> (CCF B)&emsp;加拿大 班芙&emsp;--论文展示</li></ul></td>
 		<td align="right"><a href="http://www.lengxue.info/images/leng/resume/iwqos2018_presentation.jpg"><i class='social fa fa-book'></i></a>  2018.6.4&nbsp;-&nbsp;2018.6.6</td>
-	</tr>	
+	</tr>
 	<tr>
 		<td align="left"><ul><li>中国思科--实习</li></ul></td>
 		<td align="right" rowspan="2" style="vertical-align:text-top">2016.5&nbsp;-&nbsp;9</td>
@@ -223,7 +227,7 @@ title: 简历 (<a href="http://www.lengxue.info/images/leng/resume/cv_Chinese.pd
 
 ### 科研成果
 **会议**：
-  1. **Xue Leng**, Tzung-Han Juang, Yan Chen, Han Liu. AOMO: an AI-aided Optimizer for Microservices Orchestration. In Proceedings of SIGCOMM Posters and Demos, Beijing, China, August 19–23, 2019.
+  1. **Xue Leng**, Tzung-Han Juang, Yan Chen, Han Liu. AOMO: an AI-aided Optimizer for Microservices Orchestration. In Proceedings of SIGCOMM Posters and Demos, Beijing, China, August 19–23, 2019. &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> Paper </a>  &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/AOMO_Poster.pdf"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Poster </a>
   2. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song. "SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud." in *2018 IEEE/ACM 26th International Symposium on Quality of Service* (**IWQoS**), pp. 1-10, Banff, Alberta, Canada, June 4-6, 2018.  &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides </a>
 
 **期刊**：
