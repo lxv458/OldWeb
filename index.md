@@ -53,7 +53,7 @@ title: Resume (<a href="http://www.lengxue.info/images/leng/resume/cv_English.pd
 <table>
   <tr>
     <td align="left"><ul><li><strong>Paper Presentation</strong> at the conference of ACM <strong>SIGCOMM 2019</strong> (CCF A)&emsp;Beijing, China</li></ul></td>
-    <td align="right"><a href="http://www.lengxue.info/images/leng/resume/iwqos2018_presentation.jpg"><i class='social fa fa-book'></i></a>  19-23 Aug. 2019</td>
+    <td align="right"><a href="http://www.lengxue.info/images/leng/resume/sigcomm2019_presentation.jpg"><i class='social fa fa-book'></i></a>  19-23 Aug. 2019</td>
   </tr>	
   <tr>
     <td align="left"><ul><li><strong>Paper Presentation</strong> at the conference of IEEE/ACM <strong>IWQoS 2018</strong> (CCF B)&emsp;Banff, Canada</li></ul></td>
@@ -222,7 +222,7 @@ title: Resume (<a href="http://www.lengxue.info/images/leng/resume/cv_English.pd
  
 ### Publication
 **Conference**:
-  1. **Xue Leng**, Tzung-Han Juang, Yan Chen, Han Liu. AOMO: an AI-aided Optimizer for Microservices Orchestration. In Proceedings of SIGCOMM Posters and Demos, Beijing, China, August 19–23, 2019. &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> Paper </a>  &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/AOMO_Poster.pptx"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Poster </a>
+  1. **Xue Leng**, Tzung-Han Juang, Yan Chen, Han Liu. AOMO: an AI-aided Optimizer for Microservices Orchestration. In Proceedings of SIGCOMM Posters and Demos, Beijing, China, August 19–23, 2019. &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> Paper </a>  &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/AOMO_Poster.pdf"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Poster </a>
 
   2. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song. "SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud." in *2018 IEEE/ACM 26th International Symposium on Quality of Service* (**IWQoS**), pp. 1-10, Banff, Alberta, Canada, June 4-6, 2018.  &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<a href="http://www.lengxue.info/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides</a>
 
