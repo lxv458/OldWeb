@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
-gem 'jekyll', '>= 3.6.3'
+gem 'jekyll'
 gem 'redcarpet'
 gem 'jekyll-paginate'
 gem 'jekyll-sitemap'
-gem 'ffid', '>= 1.9.24'
