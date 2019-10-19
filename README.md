@@ -1,2 +1,2 @@
 # lxv458.github.io
-Access www.lengxue.info!
+Access www.lengxue.me!
