@@ -136,7 +136,7 @@ title: 简历 (<a href="http://www.lengxue.me/images/leng/resume/cv_Chinese.pdf"
 <table>
 	<tr>
 		<td align="left"><ul><li>浙江大学 优秀博士生岗助</li></ul></td>
-		<td align="right">2019.11</td>
+		<td align="right"><a href="http://www.lengxue.me/images/leng/resume/excellent_phd.jpg"><i class='social fa fa-book'></i></a> 2019.11</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li>国家奖学金</li></ul></td>
