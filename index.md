@@ -134,9 +134,9 @@ title: Resume (<a href="http://www.lengxue.me/images/leng/resume/cv_English.pdf"
 ### Awards
 <table>
   <tr>
-		<td align="left"><ul><li>Excellent Doctoral Scholarship of ZJU</li></ul></td>
-		<td align="right">2019.11</td>
-	</tr>
+    <td align="left"><ul><li>Excellent Doctoral Scholarship of ZJU</li></ul></td>
+    <td align="right">Nov. 2019</td>
+  </tr>
   <tr>
     <td align="left"><ul><li>National Scholarship</li></ul></td>
     <td align="right"><a href="http://www.lengxue.me/images/leng/resume/national_scholarship.jpg"><i class='social fa fa-book'></i></a> Dec. 2012</td>
