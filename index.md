@@ -135,7 +135,7 @@ title: Resume (<a href="http://www.lengxue.me/images/leng/resume/cv_English.pdf"
 <table>
   <tr>
     <td align="left"><ul><li>Excellent Doctoral Scholarship of ZJU</li></ul></td>
-    <td align="right">Nov. 2019</td>
+    <td align="right"><a href="http://www.lengxue.me/images/leng/resume/excellent_phd.jpg"><i class='social fa fa-book'></i></a> Nov. 2019</td>
   </tr>
   <tr>
     <td align="left"><ul><li>National Scholarship</li></ul></td>
