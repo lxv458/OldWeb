@@ -135,6 +135,10 @@ title: 简历 (<a href="http://www.lengxue.me/images/leng/resume/cv_Chinese.pdf"
 ### 奖项
 <table>
 	<tr>
+		<td align="left"><ul><li>浙江大学 优秀博士生岗助</li></ul></td>
+		<td align="right">2019.11</td>
+	</tr>
+	<tr>
 		<td align="left"><ul><li>国家奖学金</li></ul></td>
 		<td align="right"><a href="http://www.lengxue.me/images/leng/resume/national_scholarship.jpg"><i class='social fa fa-book'></i></a> 2012.12</td>
 	</tr>
@@ -234,10 +238,12 @@ title: 简历 (<a href="http://www.lengxue.me/images/leng/resume/cv_Chinese.pdf"
   1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, You Li. "A Lightweight Policy Enforcement System for Resource Protection and Management in the SDN-based Cloud", *Computer Networks* (**CN**), Volume 161, Issue C, (2019): 68-81. <a href="https://www.sciencedirect.com/science/article/pii/S1389128618314129?dgcid=coauthor"> DOI: 10.1016/j.comnet.2019.05.022</a>
 
   2. Yinbo Yu, Xing Li, **Xue Leng**, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, and Xin Xiao. "Fault Management in Software-Defined Networking: A Survey", *IEEE Communications Surveys & Tutorials* (**COMST**), Volume 25, Issue 4, (2019): 349-392.
-  
-  3. Yan Chen, Xitao Wen, **Xue Leng**, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu. "Optimization Framework for Minimizing Rule Update Latency in SDN Switches", *ZTE Communications*, Volume 16, Issue 4, (2018): 15-29. DOI: 10.19729/j.cnki.1673-5188.2018.04.001
 
-  4. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in *ACM/IEEE Transaction on Networking* (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360.
+  3. Xiaochun Wu, Kaiyu Hou, **Xue Leng**, Xing Li, Yinbo Yu, Bo Wu, and Yan Chen. "State of the Art and Research Challenges in the Security Technologies of Network Function Virtualization", to be appear in the *IEEE Internet Computing*.
+  
+  4. Yan Chen, Xitao Wen, **Xue Leng**, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu. "Optimization Framework for Minimizing Rule Update Latency in SDN Switches", *ZTE Communications*, Volume 16, Issue 4, (2018): 15-29. DOI: 10.19729/j.cnki.1673-5188.2018.04.001
+
+  5. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in *ACM/IEEE Transaction on Networking* (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360.
 
 
 ### 课余活动
