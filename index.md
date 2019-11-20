@@ -231,9 +231,11 @@ title: Resume (<a href="http://www.lengxue.me/images/leng/resume/cv_English.pdf"
   
   2. Yinbo Yu, Xing Li, **Xue Leng**, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, and Xin Xiao. "Fault Management in Software-Defined Networking: A Survey", *IEEE Communications Surveys & Tutorials* (**COMST**), Volume 25, Issue 4, (2019): 349-392.
   
-  3. Yan Chen, Xitao Wen, **Xue Leng**, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu. "Optimization Framework for Minimizing Rule Update Latency in SDN Switches", *ZTE Communications*, Volume 16, Issue 4, (2018): 15-29. DOI: 10.19729/j.cnki.1673-5188.2018.04.001
+  3. Xiaochun Wu, Kaiyu Hou, **Xue Leng**, Xing Li, Yinbo Yu, Bo Wu, and Yan Chen. "State of the Art and Research Challenges in the Security Technologies of Network Function Virtualization", to be appear in the *IEEE Internet Computing*.
+  
+  4. Yan Chen, Xitao Wen, **Xue Leng**, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu. "Optimization Framework for Minimizing Rule Update Latency in SDN Switches", *ZTE Communications*, Volume 16, Issue 4, (2018): 15-29. DOI: 10.19729/j.cnki.1673-5188.2018.04.001
 
-  4. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in *ACM/IEEE Transaction on Networking* (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360.
+  5. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in *ACM/IEEE Transaction on Networking* (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360.
 
 ### Activity
 <table>
