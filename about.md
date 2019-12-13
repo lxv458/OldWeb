@@ -88,6 +88,10 @@ title: 简历 (<a href="http://www.lengxue.me/images/leng/resume/cv_Chinese.pdf"
 <table>
 	<tr>
 		<td align="left"><ul><li>浙江大学&nbsp;优秀研究生</li></ul></td>
+		<td align="right"><a href="http://www.lengxue.me/images/leng/resume/ZJUstudent2018.jpg"><i class='social fa fa-book'></i></a> 2019.12</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>浙江大学&nbsp;优秀研究生</li></ul></td>
 		<td align="right"><a href="http://www.lengxue.me/images/leng/resume/ZJUstudent2018.jpg"><i class='social fa fa-book'></i></a> 2018.12</td>
 	</tr>
 	<tr>
