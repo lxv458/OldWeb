@@ -6,7 +6,7 @@ title: 简历 (<a href="http://www.lengxue.me/images/leng/resume/cv_Chinese.pdf"
 	<tr>
 		<td rowspan="4">&nbsp;</td>
 		<td align="center" colspan="3">&nbsp;</td>
-		<td align="center" rowspan="4" style="vertical-align:middle"><img src="/images/leng/resume/myself_1.jpg" width="140" height="180" /></td>
+		<td align="center" rowspan="4" style="vertical-align:middle"><img src="/images/leng/resume/myself_2.jpg" width="140" height="180" /></td>
 	</tr>
 	<tr>
 		<td align="left">冷&emsp;雪</td>
