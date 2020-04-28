@@ -14,12 +14,6 @@ title: 简历 (<a href="http://www.lengxue.me/images/leng/resume/cv_Chinese.pdf"
 		<td align="left"></td>
 	</tr>
 	<tr>
-		<td align="left">浙江大学</td>
-		<td align="left">计算机科学与技术学院</td>
-		<td align="left">博士生</td> 		
-	</tr>
-	<tr>
-		<td align="left"><strong>导&emsp;师：</strong><a href="http://www.cs.northwestern.edu/~ychen/">陈&emsp;焰</a></td>
 		<td align="left"><strong>联系方式 <i class='social fa fa-mobile-phone fa-2x'></i>：</strong>(86)130-7181-1520</td>
 		<td align="left"><strong>邮&emsp;箱 <i class='social fa fa-envelope'></i>：</strong>lengxue_2015@outlook.com</td>
 	</tr>
@@ -28,21 +22,21 @@ title: 简历 (<a href="http://www.lengxue.me/images/leng/resume/cv_Chinese.pdf"
 ### 教育经历
 <table>
 	<tr>
-		<td align="left"><ul><li>浙江大学&emsp;计算机科学与技术学院&emsp;博士</li></ul></td>
+		<td align="left"><ul><li><strong>浙江大学</strong>&emsp;计算机科学与技术学院&emsp;<strong>博士</strong></li></ul></td>
 		<td align="right" rowspan="2" style="vertical-align:text-top">2015.9&nbsp;-&nbsp;至今</td>
 	</tr>
 	<tr>
-		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN/NFV网络安全性与可靠性研究, 微服务&emsp;&emsp;&emsp;&emsp;<strong>导&emsp;师：</strong>&nbsp;陈&emsp;焰</td>
+		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN/NFV网络安全性与可靠性研究, 微服务&emsp;&emsp;&emsp;&emsp;<strong>导&emsp;师：</strong>&nbsp;<a href="http://www.cs.northwestern.edu/~ychen/">陈&emsp;焰</a></td>
 	</tr>
 	<tr>
-		<td align="left"><ul><li>美国 西北大学&emsp;电子工程与计算机科学学院&emsp;访问学者</li></ul></td>
+		<td align="left"><ul><li><strong>美国西北大学</strong>&emsp;电子工程与计算机科学学院&emsp;<strong>访问学者</strong></li></ul></td>
 		<td align="right" rowspan="2" style="vertical-align:text-top">2018.10&nbsp;-&nbsp;2019.06</td>
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN/NFV网络安全性与可靠性研究，5G协议验证 &emsp;&emsp;&emsp;&emsp;<strong>导&emsp;师：</strong>&nbsp;Hai Zhou</td>
 	</tr>
 	<tr>
-		<td align="left"><ul><li>哈尔滨工程大学&emsp;计算机科学与技术学院&emsp;学士</li></ul></td>
+		<td align="left"><ul><li><strong>哈尔滨工程大学</strong>&emsp;计算机科学与技术学院&emsp;<strong>学士</strong></li></ul></td>
 		<td align="right" rowspan="2" style="vertical-align:text-top">2011.9&nbsp;-&nbsp;2015.6</td>
 	</tr>
 	<tr>
@@ -53,11 +47,11 @@ title: 简历 (<a href="http://www.lengxue.me/images/leng/resume/cv_Chinese.pdf"
 ### 经历
 <table>
 	<tr>
-		<td align="left"><ul><li>国际会议ACM <strong>SIGCOMM 2019</strong> (CCF A)&emsp;中国 北京&emsp;--论文展示</li></ul></td>
+		<td align="left"><ul><li>国际会议ACM <strong>SIGCOMM 2019</strong> (CCF A)&emsp;中国 北京&emsp;--论文海报展示</li></ul></td>
 		<td align="right"><a href="http://www.lengxue.me/images/leng/resume/sigcomm2019_presentation.jpg"><i class='social fa fa-book'></i></a>  2019.8.19&nbsp;-&nbsp;2019.8.23</td>
 	</tr>
 	<tr>
-		<td align="left"><ul><li>国际会议IEEE/ACM <strong>IWQoS 2018</strong> (CCF B)&emsp;加拿大 班芙&emsp;--论文展示</li></ul></td>
+		<td align="left"><ul><li>国际会议IEEE/ACM <strong>IWQoS 2018</strong> (CCF B)&emsp;加拿大 班芙&emsp;--论文汇报展示</li></ul></td>
 		<td align="right"><a href="http://www.lengxue.me/images/leng/resume/iwqos2018_presentation.jpg"><i class='social fa fa-book'></i></a>  2018.6.4&nbsp;-&nbsp;2018.6.6</td>
 	</tr>
 	<tr>
@@ -243,12 +237,15 @@ title: 简历 (<a href="http://www.lengxue.me/images/leng/resume/cv_Chinese.pdf"
 
   2. Yinbo Yu, Xing Li, **Xue Leng**, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, and Xin Xiao. "Fault Management in Software-Defined Networking: A Survey", *IEEE Communications Surveys & Tutorials* (**COMST**), Volume 21, No 1, (2019): 349-392.
 
-  3. Xiaochun Wu, Kaiyu Hou, **Xue Leng**, Xing Li, Yinbo Yu, Bo Wu, and Yan Chen. "State of the Art and Research Challenges in the Security Technologies of Network Function Virtualization", to be appear in the *IEEE Internet Computing*.
+  3. Xiaochun Wu, Kaiyu Hou, **Xue Leng**, Xing Li, Yinbo Yu, Bo Wu, and Yan Chen. "State of the Art and Research Challenges in the Security Technologies of Network Function Virtualization", *IEEE Internet Computing*, Volume 24, Issue 1, (2020): 25-35. DOI: 10.1109/MIC.2019.2956712
   
   4. Yan Chen, Xitao Wen, **Xue Leng**, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu. "Optimization Framework for Minimizing Rule Update Latency in SDN Switches", *ZTE Communications*, Volume 16, Issue 4, (2018): 15-29. DOI: 10.19729/j.cnki.1673-5188.2018.04.001
 
   5. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in *ACM/IEEE Transaction on Networking* (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360.
 
+**专利**：
+  1. **冷雪**，陈焰，侯开宇，卜凯，李星。一种软件定义网络下基于策略语言的云端网络资源管理控制系统[P]，中国，201810159706.0（实质审查，公告日：2018/08/03）
+  2. 陈焰、于银菠、李星、卜凯、杨剑锋、**冷雪**。基于差分检测的控制平面故障诊断系统及其实现方法[P]，中国，201910204272.6（等待实审，公告日：2019/06/25）
 
 ### 课余活动
 <table>
