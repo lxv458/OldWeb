@@ -10,17 +10,14 @@ title: Resume
   <tr>
     <td align="left">Xue&nbsp;Leng (冷 雪) <a href="http://www.lengxue.me/images/leng/resume/Lengxue_CV_english.pdf">Download Resume</a></td>
     <td align="left"></td>
-    <td align="left"></td>
   </tr>
   <tr>
     <td align="left">Research Engineer</td>
-    <td align="left">CloudBU, Huawei</td>
-    <td align="left"></td>     
+    <td align="left">CloudBU, Huawei</td>   
   </tr>
   <tr>
     <td align="left"><strong>Phone <i class='social fa fa-mobile-phone fa-2x'></i>：</strong>(86)130-7181-1520</td>
     <td align="left"><strong>Email <i class='social fa fa-envelope'></i>：</strong>lengxue_2015@outlook.com</td>
-    <td align="left"></td>
   </tr>
 </table>
 
