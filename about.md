@@ -11,7 +11,7 @@ title: 简历
 	<tr>
 		<td align="left">冷&emsp;雪</td>
 		<td align="left">中共党员</td>
-		<td align="left"></td>
+		<td align="left"><a href="http://www.lengxue.me/images/leng/resume/cv_Chinese.pdf">简历下载</a></td>
 	</tr>
 	<tr>
 		<td align="left"><strong>联系方式 <i class='social fa fa-mobile-phone fa-2x'></i>：</strong>(86)130-7181-1520</td>
