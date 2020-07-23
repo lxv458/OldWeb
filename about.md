@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 简历 (<a href="http://www.lengxue.me/images/leng/resume/cv_Chinese.pdf">PDF</a>)
+title: 简历
 ---
 <table>
 	<tr>
@@ -19,21 +19,29 @@ title: 简历 (<a href="http://www.lengxue.me/images/leng/resume/cv_Chinese.pdf"
 	</tr>
 </table>
 
+### 工作经历
+<table>
+	<tr>
+		<td align="left"><ul><li><strong>华为</strong>&emsp;CloudBU&emsp;<strong>研发工程师</strong></li></ul></td>
+		<td align="right" rowspan="2" style="vertical-align:text-top">2020.8&nbsp;-&nbsp;至今</td>
+	</tr>
+</table>
+
 ### 教育经历
 <table>
 	<tr>
 		<td align="left"><ul><li><strong>浙江大学</strong>&emsp;计算机科学与技术学院&emsp;<strong>博士</strong></li></ul></td>
-		<td align="right" rowspan="2" style="vertical-align:text-top">2015.9&nbsp;-&nbsp;至今</td>
+		<td align="right" rowspan="2" style="vertical-align:text-top">2015.9&nbsp;-&nbsp;2020.6</td>
 	</tr>
 	<tr>
-		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN/NFV网络安全性与可靠性研究, 微服务&emsp;&emsp;&emsp;&emsp;<strong>导&emsp;师：</strong>&nbsp;<a href="http://www.cs.northwestern.edu/~ychen/">陈&emsp;焰</a></td>
+		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN网络安全性与可靠性研究, 微服务，资源管理&emsp;&emsp;&emsp;&emsp;<strong>导&emsp;师：</strong>&nbsp;<a href="http://www.cs.northwestern.edu/~ychen/">陈&emsp;焰</a></td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li><strong>美国西北大学</strong>&emsp;电子工程与计算机科学学院&emsp;<strong>访问学者</strong></li></ul></td>
 		<td align="right" rowspan="2" style="vertical-align:text-top">2018.10&nbsp;-&nbsp;2019.06</td>
 	</tr>
 	<tr>
-		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN/NFV网络安全性与可靠性研究，5G协议验证 &emsp;&emsp;&emsp;&emsp;<strong>导&emsp;师：</strong>&nbsp;Hai Zhou</td>
+		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN网络安全性与可靠性研究 &emsp;&emsp;&emsp;&emsp;<strong>导&emsp;师：</strong>&nbsp;Hai Zhou</td>
 	</tr>
 	<tr>
 		<td align="left"><ul><li><strong>哈尔滨工程大学</strong>&emsp;计算机科学与技术学院&emsp;<strong>学士</strong></li></ul></td>
@@ -75,6 +83,78 @@ title: 简历 (<a href="http://www.lengxue.me/images/leng/resume/cv_Chinese.pdf"
 	<tr>
 		<td align="left"><ul><li>哈尔滨工程大学计算机学院&emsp;学生会&emsp;副主席兼学习部部长</li></ul></td>
 		<td align="right">2013.9&nbsp;-&nbsp;2014.6</td>
+	</tr>
+</table>
+
+### 科研成果
+**会议**：
+  1. **Xue Leng**, Tzung-Han Juang, Yan Chen, Han Liu. AOMO: An AI-aided Optimizer for Microservices Orchestration. In Proceedings of the ACM **SIGCOMM** 2019 Conference Posters and Demos, Beijing, China, August 19–23, 2019. &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> Paper </a>  &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/AOMO_Poster.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> Poster </a>
+  2. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song. "SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud." in *2018 IEEE/ACM 26th International Symposium on Quality of Service* (**IWQoS**), pp. 1-10, Banff, Alberta, Canada, June 4-6, 2018.  &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides </a>
+
+**期刊**：
+  1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, You Li. "A Lightweight Policy Enforcement System for Resource Protection and Management in the SDN-based Cloud", *Computer Networks* (**CN**), Volume 161, Issue C, (2019): 68-81. <a href="https://www.sciencedirect.com/science/article/pii/S1389128618314129?dgcid=coauthor"> DOI: 10.1016/j.comnet.2019.05.022</a>
+
+  2. Yinbo Yu, Xing Li, **Xue Leng**, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, and Xin Xiao. "Fault Management in Software-Defined Networking: A Survey", *IEEE Communications Surveys & Tutorials* (**COMST**), Volume 21, No 1, (2019): 349-392.
+
+  3. Xiaochun Wu, Kaiyu Hou, **Xue Leng**, Xing Li, Yinbo Yu, Bo Wu, and Yan Chen. "State of the Art and Research Challenges in the Security Technologies of Network Function Virtualization", *IEEE Internet Computing*, Volume 24, Issue 1, (2020): 25-35. DOI: 10.1109/MIC.2019.2956712
+  
+  4. Yan Chen, Xitao Wen, **Xue Leng**, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu. "Optimization Framework for Minimizing Rule Update Latency in SDN Switches", *ZTE Communications*, Volume 16, Issue 4, (2018): 15-29. DOI: 10.19729/j.cnki.1673-5188.2018.04.001
+
+  5. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in *ACM/IEEE Transaction on Networking* (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360.
+
+**专利**：
+  1. **冷雪**，陈焰，侯开宇，卜凯，李星。一种软件定义网络下基于策略语言的云端网络资源管理控制系统[P]，中国，201810159706.0（实质审查，公告日：2018/08/03）
+  2. 陈焰、于银菠、李星、卜凯、杨剑锋、**冷雪**。基于差分检测的控制平面故障诊断系统及其实现方法[P]，中国，201910204272.6（已授权，公告日：2020/06/04）
+
+### 项目
+<table>
+	<tr>
+		<td align="left"><ul><li>十三五&emsp;<strong>国家重点研发计划</strong>&emsp;网络空间安全专项</li></ul></td>
+		<td align="right" rowspan="4" style="vertical-align: text-top">2017.7&nbsp;-&nbsp;2020.12</td>
+	</tr>
+	<tr>
+		<td align="left">&emsp;&emsp;----作为核心成员负责项目(课题)的申请及实施</td>
+	</tr>
+	<tr>
+		<td align="left">&emsp;&emsp;----课题“SDN/NFV与NDN安全研究”牵头单位</td>
+	</tr>
+	<tr>
+		<td align="left">&emsp;&emsp;----主要负责SDN/NFV网络攻击主动防御机制的设计及系统实现，并通过试验网验证</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li><strong>浙江省重点研发计划</strong>&emsp;云计算安全及服务系统研发及应用</li></ul></td>
+		<td align="right" rowspan="4" style="vertical-align: text-top">2017.7&nbsp;-&nbsp;2020.6</td>
+	</tr>
+	<tr>
+		<td align="left">&emsp;&emsp;----作为核心成员负责项目的申请及实施</td>
+	</tr>
+	<tr>
+		<td align="left">&emsp;&emsp;----项目“内生安全的云计算系统主动防御技术研究与应用”牵头单位</td>
+	</tr>
+	<tr>
+		<td align="left">&emsp;&emsp;----主要负责基于SDN的云环境中攻击主动防御机制的设计及系统实现</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li><strong>SDNKeeper</strong></li></ul></td>
+		<td align="right" rowspan="2" style="vertical-align: text-top">2017.3&nbsp;-&nbsp;11</td>
+	</tr>
+	<tr>
+		<td align="left">&emsp;&emsp;----应用于基于SDN的云环境的网络资源管控机制，可灵活管控网络资源和网络访问请求，有效抵御越权攻击</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li><strong>RuleScope</strong></li></ul></td>
+		<td align="right" rowspan="2" style="vertical-align: text-top">2015.3&nbsp;-&nbsp;2017.4</td>
+	</tr>
+	<tr>
+		<td align="left">&emsp;&emsp;----SDN中流表正确性检测方法，可准确检测并定位出流表中存在的优先级错误和规则失效错误</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>局域网即时通讯软件</li></ul></td>
+		<td align="right">2014.8&nbsp;-&nbsp;9</td>
+	</tr>
+	<tr>
+		<td align="left"><ul><li>酒店客房管理系统</li></ul></td>
+		<td align="right">2014.6&nbsp;-&nbsp;7</td>
 	</tr>
 </table>
 
@@ -173,79 +253,6 @@ title: 简历 (<a href="http://www.lengxue.me/images/leng/resume/cv_Chinese.pdf"
 		<td align="right"><a href="http://www.lengxue.me/images/leng/resume/saibaite.jpg"><i class='social fa fa-book'></i></a> 2013.8</td>
 	</tr>
 </table>
-
-### 项目
-<table>
-	<tr>
-		<td align="left"><ul><li>十三五&emsp;<strong>国家重点研发计划</strong>&emsp;网络空间安全专项</li></ul></td>
-		<td align="right" rowspan="4" style="vertical-align: text-top">2017.7&nbsp;-&nbsp;2020.12</td>
-	</tr>
-	<tr>
-		<td align="left">&emsp;&emsp;----作为核心成员负责项目(课题)的申请及实施</td>
-	</tr>
-	<tr>
-		<td align="left">&emsp;&emsp;----课题“SDN/NFV与NDN安全研究”牵头单位</td>
-	</tr>
-	<tr>
-		<td align="left">&emsp;&emsp;----主要负责SDN/NFV网络攻击主动防御机制的设计及系统实现，并通过试验网验证</td>
-	</tr>
-	<tr>
-		<td align="left"><ul><li><strong>浙江省重点研发计划</strong>&emsp;云计算安全及服务系统研发及应用</li></ul></td>
-		<td align="right" rowspan="4" style="vertical-align: text-top">2017.7&nbsp;-&nbsp;2020.6</td>
-	</tr>
-	<tr>
-		<td align="left">&emsp;&emsp;----作为核心成员负责项目的申请及实施</td>
-	</tr>
-	<tr>
-		<td align="left">&emsp;&emsp;----项目“内生安全的云计算系统主动防御技术研究与应用”牵头单位</td>
-	</tr>
-	<tr>
-		<td align="left">&emsp;&emsp;----主要负责基于SDN的云环境中攻击主动防御机制的设计及系统实现</td>
-	</tr>
-	<tr>
-		<td align="left"><ul><li><strong>SDNKeeper</strong></li></ul></td>
-		<td align="right" rowspan="2" style="vertical-align: text-top">2017.3&nbsp;-&nbsp;11</td>
-	</tr>
-	<tr>
-		<td align="left">&emsp;&emsp;----应用于基于SDN的云环境的网络资源管控机制，可灵活管控网络资源和网络访问请求，有效抵御越权攻击</td>
-	</tr>
-	<tr>
-		<td align="left"><ul><li><strong>RuleScope</strong></li></ul></td>
-		<td align="right" rowspan="2" style="vertical-align: text-top">2015.3&nbsp;-&nbsp;2017.4</td>
-	</tr>
-	<tr>
-		<td align="left">&emsp;&emsp;----SDN中流表正确性检测方法，可准确检测并定位出流表中存在的优先级错误和规则失效错误</td>
-	</tr>
-	<tr>
-		<td align="left"><ul><li>局域网即时通讯软件</li></ul></td>
-		<td align="right">2014.8&nbsp;-&nbsp;9</td>
-	</tr>
-	<tr>
-		<td align="left"><ul><li>酒店客房管理系统</li></ul></td>
-		<td align="right">2014.6&nbsp;-&nbsp;7</td>
-	</tr>
-</table>
-
-
-### 科研成果
-**会议**：
-  1. **Xue Leng**, Tzung-Han Juang, Yan Chen, Han Liu. AOMO: An AI-aided Optimizer for Microservices Orchestration. In Proceedings of the ACM **SIGCOMM** 2019 Conference Posters and Demos, Beijing, China, August 19–23, 2019. &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> Paper </a>  &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/AOMO_Poster.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> Poster </a>
-  2. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song. "SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud." in *2018 IEEE/ACM 26th International Symposium on Quality of Service* (**IWQoS**), pp. 1-10, Banff, Alberta, Canada, June 4-6, 2018.  &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides </a>
-
-**期刊**：
-  1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, You Li. "A Lightweight Policy Enforcement System for Resource Protection and Management in the SDN-based Cloud", *Computer Networks* (**CN**), Volume 161, Issue C, (2019): 68-81. <a href="https://www.sciencedirect.com/science/article/pii/S1389128618314129?dgcid=coauthor"> DOI: 10.1016/j.comnet.2019.05.022</a>
-
-  2. Yinbo Yu, Xing Li, **Xue Leng**, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, and Xin Xiao. "Fault Management in Software-Defined Networking: A Survey", *IEEE Communications Surveys & Tutorials* (**COMST**), Volume 21, No 1, (2019): 349-392.
-
-  3. Xiaochun Wu, Kaiyu Hou, **Xue Leng**, Xing Li, Yinbo Yu, Bo Wu, and Yan Chen. "State of the Art and Research Challenges in the Security Technologies of Network Function Virtualization", *IEEE Internet Computing*, Volume 24, Issue 1, (2020): 25-35. DOI: 10.1109/MIC.2019.2956712
-  
-  4. Yan Chen, Xitao Wen, **Xue Leng**, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu. "Optimization Framework for Minimizing Rule Update Latency in SDN Switches", *ZTE Communications*, Volume 16, Issue 4, (2018): 15-29. DOI: 10.19729/j.cnki.1673-5188.2018.04.001
-
-  5. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in *ACM/IEEE Transaction on Networking* (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360.
-
-**专利**：
-  1. **冷雪**，陈焰，侯开宇，卜凯，李星。一种软件定义网络下基于策略语言的云端网络资源管理控制系统[P]，中国，201810159706.0（实质审查，公告日：2018/08/03）
-  2. 陈焰、于银菠、李星、卜凯、杨剑锋、**冷雪**。基于差分检测的控制平面故障诊断系统及其实现方法[P]，中国，201910204272.6（等待实审，公告日：2019/06/25）
 
 ### 课余活动
 <table>
