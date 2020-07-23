@@ -1,5 +1,5 @@
 ---
-title: Resume (<a href="http://www.lengxue.me/images/leng/resume/cv_English.pdf">PDF</a>)
+title: Resume
 ---
 <table>
   <tr>
@@ -13,12 +13,11 @@ title: Resume (<a href="http://www.lengxue.me/images/leng/resume/cv_English.pdf"
     <td align="left"></td>
   </tr>
   <tr>
-    <td align="left">Ph.D. Student</td>
-    <td align="left">College of Computer Science &amp; Technology</td>
-    <td align="left">Zhejiang University (ZJU)</td>     
+    <td align="left">Research Engineer</td>
+    <td align="left">CloudBU</td>
+    <td align="left">Huawei</td>     
   </tr>
   <tr>
-    <td align="left"><strong>Supervisor：</strong>Prof. <a href="http://www.cs.northwestern.edu/~ychen/">Yan&nbsp;Chen</a></td>
     <td align="left"><strong>Phone <i class='social fa fa-mobile-phone fa-2x'></i>：</strong>(86)130-7181-1520</td>
     <td align="left"><strong>Email <i class='social fa fa-envelope'></i>：</strong>lengxue_2015@outlook.com</td>
   </tr>
@@ -28,17 +27,17 @@ title: Resume (<a href="http://www.lengxue.me/images/leng/resume/cv_English.pdf"
 <table>
   <tr>
     <td align="left"><ul><li><strong>Ph.D.</strong>&emsp;College of Computer Science &amp; Technology&emsp;Zhejiang University (ZJU)</li></ul></td>
-    <td align="right" rowspan="2" style="vertical-align:text-top">Sep. 2015&nbsp;-&nbsp;Present</td>
+    <td align="right" rowspan="2" style="vertical-align:text-top">Sep. 2015&nbsp;-&nbsp;Jun. 2020</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Research Interests：</strong>&nbsp;the security and reliability of SDN/NFV, microservices &emsp;&emsp;&emsp;&emsp;<strong>Supervisor：</strong>&nbsp;Prof. Yan Chen</td>
+    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Research Interests：</strong>&nbsp;the Security and Reliability of SDN, Microservices, Resource Management &emsp;&emsp;&emsp;&emsp;<strong>Supervisor：</strong>Prof. <a href="http://www.cs.northwestern.edu/~ychen/">Yan&nbsp;Chen</a></td>
   </tr>
   <tr>
     <td align="left"><ul><li><strong>Visiting Scholar</strong>&emsp;Electrical Engineering and Computer Science Department &emsp;Northwestern University (NU), USA. </li></ul></td>
     <td align="right" rowspan="2" style="vertical-align:text-top">Oct. 2018&nbsp;-&nbsp;Jun. 2019</td>
   </tr>
   <tr>
-    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Research Interests：</strong>&nbsp;the security and reliability of SDN/NFV, 5G protocols verification &emsp;&emsp;&emsp;&emsp;<strong>Supervisor：</strong>&nbsp;Prof. Hai Zhou</td>
+    <td align="left">&emsp;&emsp;&emsp;&emsp;<strong>Research Interests：</strong>&nbsp;the reliability of SDN and Microservices &emsp;&emsp;&emsp;&emsp;<strong>Supervisor：</strong>&nbsp;Prof. Hai Zhou</td>
   </tr>
   <tr>
     <td align="left"><ul><li><strong>B.E.</strong>&emsp;College of Computer Science &amp; Technology&emsp;Harbin Engineering University (HEU)</li></ul></td>
@@ -239,7 +238,7 @@ title: Resume (<a href="http://www.lengxue.me/images/leng/resume/cv_English.pdf"
   
   2. Yinbo Yu, Xing Li, **Xue Leng**, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, and Xin Xiao. "Fault Management in Software-Defined Networking: A Survey", *IEEE Communications Surveys & Tutorials* (**COMST**), Volume 21, No 1, (2019): 349-392.
   
-  3. Xiaochun Wu, Kaiyu Hou, **Xue Leng**, Xing Li, Yinbo Yu, Bo Wu, and Yan Chen. "State of the Art and Research Challenges in the Security Technologies of Network Function Virtualization", to be appear in the *IEEE Internet Computing*.
+  3. Xiaochun Wu, Kaiyu Hou, **Xue Leng**, Xing Li, Yinbo Yu, Bo Wu, and Yan Chen. "State of the Art and Research Challenges in the Security Technologies of Network Function Virtualization", *IEEE Internet Computing*, Volume: 24, Issue: 1, (2020):25-35. DOI: 10.1109/MIC.2019.2956712.
   
   4. Yan Chen, Xitao Wen, **Xue Leng**, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu. "Optimization Framework for Minimizing Rule Update Latency in SDN Switches", *ZTE Communications*, Volume 16, Issue 4, (2018): 15-29. DOI: 10.19729/j.cnki.1673-5188.2018.04.001
 
@@ -277,4 +276,4 @@ title: Resume (<a href="http://www.lengxue.me/images/leng/resume/cv_English.pdf"
   </tr>
 </table>
 
-Download <a href="http://www.lengxue.me/images/leng/resume/cv_English.pdf">PDF File</a>
+Download <a href="http://www.lengxue.me/images/leng/resume/Lengxue_CV_english.pdf">PDF File</a>
