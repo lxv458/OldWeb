@@ -8,8 +8,8 @@ title: Resume
     <td align="center" rowspan="4" style="vertical-align:middle"><img src="/images/leng/resume/myself2.jpg" width="140" height="180" /></td>
   </tr>
   <tr>
-    <td align="left">Xue&nbsp;Leng (冷 雪)</td>
-    <td align="left"><a href="http://www.lengxue.me/images/leng/resume/Lengxue_CV_english.pdf">Download Resume</a></td>
+    <td align="left">Xue&nbsp;Leng (冷 雪) <a href="http://www.lengxue.me/images/leng/resume/Lengxue_CV_english.pdf">Download Resume</a></td>
+    <td align="left"></td>
     <td align="left"></td>
   </tr>
   <tr>
