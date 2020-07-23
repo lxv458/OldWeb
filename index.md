@@ -8,19 +8,19 @@ title: Resume
     <td align="center" rowspan="4" style="vertical-align:middle"><img src="/images/leng/resume/myself2.jpg" width="140" height="180" /></td>
   </tr>
   <tr>
-    <td align="left">Xue&nbsp;Leng</td>
-    <td align="left"></td>
+    <td align="left">Xue&nbsp;Leng (冷 雪)</td>
+    <td align="left"><a href="http://www.lengxue.me/images/leng/resume/Lengxue_CV_english.pdf">Download Resume</a></td>
     <td align="left"></td>
   </tr>
   <tr>
     <td align="left">Research Engineer</td>
-    <td align="left">CloudBU</td>
-    <td align="left">Huawei</td>     
+    <td align="left">CloudBU, Huawei</td>
+    <td align="left"></td>     
   </tr>
   <tr>
     <td align="left"><strong>Phone <i class='social fa fa-mobile-phone fa-2x'></i>：</strong>(86)130-7181-1520</td>
     <td align="left"><strong>Email <i class='social fa fa-envelope'></i>：</strong>lengxue_2015@outlook.com</td>
-    <td align="left"><a href="http://www.lengxue.me/images/leng/resume/Lengxue_CV_english.pdf">Download Resume</a></td>
+    <td align="left"></td>
   </tr>
 </table>
 
