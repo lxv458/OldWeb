@@ -52,7 +52,8 @@ title: 简历
 	</tr>
 </table>
 
-### 经历
+### 专业活动
+**学术交流**:
 <table>
 	<tr>
 		<td align="left"><ul><li>国际会议ACM <strong>SIGCOMM 2019</strong> (CCF A)&emsp;中国 北京&emsp;--论文海报展示</li></ul></td>
@@ -62,6 +63,30 @@ title: 简历
 		<td align="left"><ul><li>国际会议IEEE/ACM <strong>IWQoS 2018</strong> (CCF B)&emsp;加拿大 班芙&emsp;--论文汇报展示</li></ul></td>
 		<td align="right"><a href="http://www.lengxue.me/images/leng/resume/iwqos2018_presentation.jpg"><i class='social fa fa-book'></i></a>  2018.6.4&nbsp;-&nbsp;2018.6.6</td>
 	</tr>
+</table>
+
+**论文评审**:
+<table>
+  <tr>
+    <td align="left"><ul><li>ACM Conference on Computer and Communications Security (CCS)</li></ul></td>
+    <td align="right">2018, 2019</td>
+  </tr>	
+  <tr>
+    <td align="left"><ul><li>IEEE International Conference on Distributed Computing Systems (ICDCS)</li></ul></td>
+    <td align="right">2018, 2019</td>
+  </tr>	
+  <tr>
+    <td align="left"><ul><li> European Symposium on Research in Computer Security (ESORICS)</li></ul></td>
+    <td align="right">2019</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>IEEE/ACM Transactions on Networking (ToN)</li></ul></td>
+    <td align="right">2017, 2018</td>
+  </tr>
+</table>
+
+**实习**:
+<table>
 	<tr>
 		<td align="left"><ul><li>中国思科--实习</li></ul></td>
 		<td align="right" rowspan="2" style="vertical-align:text-top">2016.5&nbsp;-&nbsp;9</td>
@@ -76,6 +101,10 @@ title: 简历
 	<tr>
 		<td align="left">&emsp;&emsp;&emsp;----开发一套即时通讯软件，实现局域网内多用户的实时通讯</td>
 	</tr>
+</table>
+
+**学生工作**:
+<table>
 	<tr>
 		<td align="left"><ul><li>浙江大学计算机学院&emsp;研究生会办公室&emsp;部长</li></ul></td>
 		<td align="right">2015.9&nbsp;-&nbsp;2016.6</td>
