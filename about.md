@@ -9,9 +9,8 @@ title: 简历
 		<td align="center" rowspan="4" style="vertical-align:middle"><img src="/images/leng/resume/myself_2.jpg" width="140" height="180" /></td>
 	</tr>
 	<tr>
-		<td align="left">冷&emsp;雪</td>
+		<td align="left">冷&emsp;雪 （<a href="http://www.lengxue.me/images/leng/resume/cv_Chinese.pdf">简历下载</a>）</td>
 		<td align="left">中共党员</td>
-		<td align="left"><a href="http://www.lengxue.me/images/leng/resume/cv_Chinese.pdf">简历下载</a></td>
 	</tr>
 	<tr>
 		<td align="left"><strong>联系方式 <i class='social fa fa-mobile-phone fa-2x'></i>：</strong>(86)130-7181-1520</td>
