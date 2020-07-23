@@ -23,6 +23,14 @@ title: Resume
   </tr>
 </table>
 
+### Work Experience
+<table>
+  <tr>
+    <td align="left"><ul><li><strong>Research Engineer</strong>&emsp;CloudBU&emsp;Huawei</li></ul></td>
+    <td align="right" rowspan="2" style="vertical-align:text-top">Aug. 2020&nbsp;-&nbsp;Present</td>
+  </tr>
+</table>
+
 ### Education
 <table>
   <tr>
@@ -79,6 +87,72 @@ title: Resume
   <tr>
     <td align="left"><ul><li><strong>Vice-President</strong>&nbsp;of Student Union in CS. HEU</li></ul></td>
     <td align="right">Sep. 2013&nbsp;-&nbsp;Jun. 2014</td>
+  </tr>
+</table>
+
+### Publication
+**Conference**:
+  1. **Xue Leng**, Tzung-Han Juang, Yan Chen, Han Liu. AOMO: An AI-aided Optimizer for Microservices Orchestration. In Proceedings of the ACM **SIGCOMM** 2019 Conference Posters and Demos, Beijing, China, August 19–23, 2019. &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> Paper </a>  &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/AOMO_Poster.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> Poster </a>
+
+  2. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song. "SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud." in *2018 IEEE/ACM 26th International Symposium on Quality of Service* (**IWQoS**), pp. 1-10, Banff, Alberta, Canada, June 4-6, 2018.  &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides</a>
+
+**Journal**:
+  1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, You Li. "A Lightweight Policy Enforcement System for Resource Protection and Management in the SDN-based Cloud", *Computer Networks* (**CN**), Volume 161, Issue C, (2019): 68-81. <a href="https://www.sciencedirect.com/science/article/pii/S1389128618314129?dgcid=coauthor"> DOI: 10.1016/j.comnet.2019.05.022</a>
+  
+  2. Yinbo Yu, Xing Li, **Xue Leng**, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, and Xin Xiao. "Fault Management in Software-Defined Networking: A Survey", *IEEE Communications Surveys & Tutorials* (**COMST**), Volume 21, No 1, (2019): 349-392.
+  
+  3. Xiaochun Wu, Kaiyu Hou, **Xue Leng**, Xing Li, Yinbo Yu, Bo Wu, and Yan Chen. "State of the Art and Research Challenges in the Security Technologies of Network Function Virtualization", *IEEE Internet Computing*, Volume: 24, Issue: 1, (2020):25-35. DOI: 10.1109/MIC.2019.2956712.
+  
+  4. Yan Chen, Xitao Wen, **Xue Leng**, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu. "Optimization Framework for Minimizing Rule Update Latency in SDN Switches", *ZTE Communications*, Volume 16, Issue 4, (2018): 15-29. DOI: 10.19729/j.cnki.1673-5188.2018.04.001
+
+  5. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in *ACM/IEEE Transaction on Networking* (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360.
+
+### Project
+<table>
+  <tr>
+    <td align="left"><ul><li>The 13th Five-year,&nbsp;<strong>National Key R&amp;D Program of China</strong>, Special of Cyberspace Security</li></ul></td>
+    <td align="right" rowspan="3" style="vertical-align: text-top" width="200px">Jul. 2017&nbsp;-&nbsp;Dec. 2020</td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;----Responsible for project application and implementation as a core member</td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;----Responsible for the design and implementation of active defense mechanism in SDN/NFV</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li><strong>Key Research and Development Plan of Zhejiang Province</strong>, The Security of Cloud and Development and Application of Aervice System</li></ul></td>
+    <td align="right" rowspan="3" style="vertical-align: text-top">Jul. 2017&nbsp;-&nbsp;Jun. 2020</td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;----Responsible for project application and implementation as a core member</td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;----Responsible for the design and implementation of active defense mechanism in SDN-based Cloud</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li><strong>SDNKeeper</strong></li></ul></td>
+    <td align="right" rowspan="3" style="vertical-align: text-top">Mar.&nbsp;-&nbsp;Nov. 2017</td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;----A lightweight access control system for protecting and managing resources for SDN-based Cloud</td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;----Controlling network deployment and accessing requests to defense unauthorized attack</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li><strong>RuleScope</strong></li></ul></td>
+    <td align="right" rowspan="2" style="vertical-align: text-top">Mar. 2015&nbsp;-&nbsp;Apr. 2017</td>
+  </tr>
+  <tr>
+    <td align="left">&emsp;&emsp;----A detection and troubleshoot method for <strong>Priority fault</strong> and <strong>Missing fault</strong> in SDN flow tables</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>LAN Instant Messaging Software</li></ul></td>
+    <td align="right">Aug.&nbsp;-&nbsp;Sep. 2014</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li>Hotel Guestroom Management System</li></ul></td>
+    <td align="right">Jun.&nbsp;-&nbsp;Jul. 2014</td>
   </tr>
 </table>
 
@@ -177,73 +251,7 @@ title: Resume
     <td align="right"><a href="http://www.lengxue.me/images/leng/resume/saibaite.jpg"><i class='social fa fa-book'></i></a> Aug. 2013</td>
   </tr>
 </table>
-
-### Project
-<table>
-  <tr>
-    <td align="left"><ul><li>The 13th Five-year,&nbsp;<strong>National Key R&amp;D Program of China</strong>, Special of Cyberspace Security</li></ul></td>
-    <td align="right" rowspan="3" style="vertical-align: text-top" width="200px">Jul. 2017&nbsp;-&nbsp;Dec. 2020</td>
-  </tr>
-  <tr>
-    <td align="left">&emsp;&emsp;----Responsible for project application and implementation as a core member</td>
-  </tr>
-  <tr>
-    <td align="left">&emsp;&emsp;----Responsible for the design and implementation of active defense mechanism in SDN/NFV</td>
-  </tr>
-  <tr>
-    <td align="left"><ul><li><strong>Key Research and Development Plan of Zhejiang Province</strong>, The Security of Cloud and Development and Application of Aervice System</li></ul></td>
-    <td align="right" rowspan="3" style="vertical-align: text-top">Jul. 2017&nbsp;-&nbsp;Jun. 2020</td>
-  </tr>
-  <tr>
-    <td align="left">&emsp;&emsp;----Responsible for project application and implementation as a core member</td>
-  </tr>
-  <tr>
-    <td align="left">&emsp;&emsp;----Responsible for the design and implementation of active defense mechanism in SDN-based Cloud</td>
-  </tr>
-  <tr>
-    <td align="left"><ul><li><strong>SDNKeeper</strong></li></ul></td>
-    <td align="right" rowspan="3" style="vertical-align: text-top">Mar.&nbsp;-&nbsp;Nov. 2017</td>
-  </tr>
-  <tr>
-    <td align="left">&emsp;&emsp;----A lightweight access control system for protecting and managing resources for SDN-based Cloud</td>
-  </tr>
-  <tr>
-    <td align="left">&emsp;&emsp;----Controlling network deployment and accessing requests to defense unauthorized attack</td>
-  </tr>
-  <tr>
-    <td align="left"><ul><li><strong>RuleScope</strong></li></ul></td>
-    <td align="right" rowspan="2" style="vertical-align: text-top">Mar. 2015&nbsp;-&nbsp;Apr. 2017</td>
-  </tr>
-  <tr>
-    <td align="left">&emsp;&emsp;----A detection and troubleshoot method for <strong>Priority fault</strong> and <strong>Missing fault</strong> in SDN flow tables</td>
-  </tr>
-  <tr>
-    <td align="left"><ul><li>LAN Instant Messaging Software</li></ul></td>
-    <td align="right">Aug.&nbsp;-&nbsp;Sep. 2014</td>
-  </tr>
-  <tr>
-    <td align="left"><ul><li>Hotel Guestroom Management System</li></ul></td>
-    <td align="right">Jun.&nbsp;-&nbsp;Jul. 2014</td>
-  </tr>
-</table>
  
-### Publication
-**Conference**:
-  1. **Xue Leng**, Tzung-Han Juang, Yan Chen, Han Liu. AOMO: An AI-aided Optimizer for Microservices Orchestration. In Proceedings of the ACM **SIGCOMM** 2019 Conference Posters and Demos, Beijing, China, August 19–23, 2019. &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> Paper </a>  &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/AOMO_Poster.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> Poster </a>
-
-  2. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song. "SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud." in *2018 IEEE/ACM 26th International Symposium on Quality of Service* (**IWQoS**), pp. 1-10, Banff, Alberta, Canada, June 4-6, 2018.  &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides</a>
-
-**Journal**:
-  1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, You Li. "A Lightweight Policy Enforcement System for Resource Protection and Management in the SDN-based Cloud", *Computer Networks* (**CN**), Volume 161, Issue C, (2019): 68-81. <a href="https://www.sciencedirect.com/science/article/pii/S1389128618314129?dgcid=coauthor"> DOI: 10.1016/j.comnet.2019.05.022</a>
-  
-  2. Yinbo Yu, Xing Li, **Xue Leng**, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, and Xin Xiao. "Fault Management in Software-Defined Networking: A Survey", *IEEE Communications Surveys & Tutorials* (**COMST**), Volume 21, No 1, (2019): 349-392.
-  
-  3. Xiaochun Wu, Kaiyu Hou, **Xue Leng**, Xing Li, Yinbo Yu, Bo Wu, and Yan Chen. "State of the Art and Research Challenges in the Security Technologies of Network Function Virtualization", *IEEE Internet Computing*, Volume: 24, Issue: 1, (2020):25-35. DOI: 10.1109/MIC.2019.2956712.
-  
-  4. Yan Chen, Xitao Wen, **Xue Leng**, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu. "Optimization Framework for Minimizing Rule Update Latency in SDN Switches", *ZTE Communications*, Volume 16, Issue 4, (2018): 15-29. DOI: 10.19729/j.cnki.1673-5188.2018.04.001
-
-  5. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in *ACM/IEEE Transaction on Networking* (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360.
-
 ### Activity
 <table>
   <tr>
