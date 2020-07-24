@@ -21,7 +21,7 @@ title: 简历
 ### 工作经历
 <table>
 	<tr>
-		<td align="left"><ul><li><strong>华为</strong>&emsp;CloudBU（华为云）&emsp;<strong>研发工程师</strong></li></ul></td>
+		<td align="left"><ul><li><strong>华为</strong>&emsp;CloudBU（华为云）&emsp;<strong>研究工程师</strong></li></ul></td>
 		<td align="right" rowspan="2" style="vertical-align:text-top">2020.8&nbsp;-&nbsp;至今</td>
 	</tr>
 </table>
