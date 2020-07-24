@@ -5,7 +5,7 @@ title: Resume
   <tr>
     <td rowspan="4">&nbsp;</td>
     <td align="center" colspan="3">&nbsp;</td>
-    <td align="center" rowspan="4" style="vertical-align:middle"><img src="/images/leng/resume/myself2.jpg" width="140" height="180" /></td>
+    <td align="center" rowspan="4" style="vertical-align:middle"><img src="/images/leng/resume/myself3.jpg" width="140" height="180" /></td>
   </tr>
   <tr>
     <td align="left">Xue&nbsp;Leng (冷 雪)</td>
