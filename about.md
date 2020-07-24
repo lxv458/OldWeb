@@ -9,7 +9,7 @@ title: 简历
 		<td align="center" rowspan="4" style="vertical-align:middle"><img src="/images/leng/resume/myself_2.jpg" width="140" height="180" /></td>
 	</tr>
 	<tr>
-		<td align="left">冷&emsp;雪 （<a href="http://www.lengxue.me/images/leng/resume/cv_Chinese.pdf">简历下载</a>）</td>
+		<td align="left">冷&emsp;雪 （<a href="http://www.lengxue.me/images/leng/resume/Lengxue_CV_chinese.pdf">简历下载</a>）</td>
 		<td align="left">中共党员</td>
 	</tr>
 	<tr>
@@ -21,7 +21,7 @@ title: 简历
 ### 工作经历
 <table>
 	<tr>
-		<td align="left"><ul><li><strong>华为</strong>&emsp;CloudBU&emsp;<strong>研发工程师</strong></li></ul></td>
+		<td align="left"><ul><li><strong>华为</strong>&emsp;CloudBU（华为云）&emsp;<strong>研发工程师</strong></li></ul></td>
 		<td align="right" rowspan="2" style="vertical-align:text-top">2020.8&nbsp;-&nbsp;至今</td>
 	</tr>
 </table>
@@ -68,7 +68,7 @@ title: 简历
 <table>
   <tr>
     <td align="left"><ul><li>ACM Conference on Computer and Communications Security (CCS)</li></ul></td>
-    <td align="right">2018, 2019</td>
+    <td align="right">2016, 2018, 2019</td>
   </tr>	
   <tr>
     <td align="left"><ul><li>IEEE International Conference on Distributed Computing Systems (ICDCS)</li></ul></td>
@@ -81,6 +81,14 @@ title: 简历
   <tr>
     <td align="left"><ul><li>IEEE/ACM Transactions on Networking (ToN)</li></ul></td>
     <td align="right">2017, 2018</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li> Security and Privacy in Communication Networks (SecureCOMM)</li></ul></td>
+    <td align="right">2016</td>
+  </tr>
+  <tr>
+    <td align="left"><ul><li> IEEE International Conference on High Performance Computing and Communications (HPCC)</li></ul></td>
+    <td align="right">2016</td>
   </tr>
 </table>
 
@@ -116,19 +124,19 @@ title: 简历
 
 ### 科研成果
 **会议**：
-  1. **Xue Leng**, Tzung-Han Juang, Yan Chen, Han Liu. AOMO: An AI-aided Optimizer for Microservices Orchestration. In Proceedings of the ACM **SIGCOMM** 2019 Conference Posters and Demos, Beijing, China, August 19–23, 2019. &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> Paper </a>  &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/AOMO_Poster.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> Poster </a>
-  2. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song. "SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud." in *2018 IEEE/ACM 26th International Symposium on Quality of Service* (**IWQoS**), pp. 1-10, Banff, Alberta, Canada, June 4-6, 2018.  &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides </a>
+  1. **Xue Leng**, Tzung-Han Juang, Yan Chen, Han Liu. AOMO: An AI-aided Optimizer for Microservices Orchestration. In Proceedings of the ACM **SIGCOMM** 2019 Conference Posters and Demos, Beijing, China, August 19–23, 2019. (**CCF A**) &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/AOMO_SIGCOMM_Poster.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> Paper </a>  &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/AOMO_Poster.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> Poster </a>
+  2. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song. "SDNKeeper: Lightweight Resource Protection and Management System for SDN-based Cloud." in *2018 IEEE/ACM 26th International Symposium on Quality of Service* (**IWQoS**), pp. 1-10, Banff, Alberta, Canada, June 4-6, 2018. (**CCF B**) &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/SDNKeeper_IWQoS2018.pdf"><i class='social fa fa-file-pdf-o fa-2x'></i> PDF</a>  &emsp;&emsp;<a href="http://www.lengxue.me/images/leng/resume/SDNKeeper_IWQoS2018.pptx"><i class='social fa fa-file-powerpoint-o fa-2x'></i> Slides </a>
 
 **期刊**：
-  1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, You Li. "A Lightweight Policy Enforcement System for Resource Protection and Management in the SDN-based Cloud", *Computer Networks* (**CN**), Volume 161, Issue C, (2019): 68-81. <a href="https://www.sciencedirect.com/science/article/pii/S1389128618314129?dgcid=coauthor"> DOI: 10.1016/j.comnet.2019.05.022</a>
+  1. **Xue Leng**, Kaiyu Hou, Yan Chen, Kai Bu, Libin Song, You Li. "A Lightweight Policy Enforcement System for Resource Protection and Management in the SDN-based Cloud", *Computer Networks* (**CN**), Volume 161, Issue C, (2019): 68-81. (**CCF B**)<a href="https://www.sciencedirect.com/science/article/pii/S1389128618314129?dgcid=coauthor"> DOI: 10.1016/j.comnet.2019.05.022</a>
 
-  2. Yinbo Yu, Xing Li, **Xue Leng**, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, and Xin Xiao. "Fault Management in Software-Defined Networking: A Survey", *IEEE Communications Surveys & Tutorials* (**COMST**), Volume 21, No 1, (2019): 349-392.
+  2. Yinbo Yu, Xing Li, **Xue Leng**, Libin Song, Kai Bu, Yan Chen, Jianfeng Yang, Liang Zhang, Kang Cheng, and Xin Xiao. "Fault Management in Software-Defined Networking: A Survey", *IEEE Communications Surveys & Tutorials* (**COMST**), Volume 21, No 1, (2019): 349-392. (**中科院一区**)
 
   3. Xiaochun Wu, Kaiyu Hou, **Xue Leng**, Xing Li, Yinbo Yu, Bo Wu, and Yan Chen. "State of the Art and Research Challenges in the Security Technologies of Network Function Virtualization", *IEEE Internet Computing*, Volume 24, Issue 1, (2020): 25-35. DOI: 10.1109/MIC.2019.2956712
   
   4. Yan Chen, Xitao Wen, **Xue Leng**, Bo Yang, Li Erran Li, Peng Zheng, Chengchen Hu. "Optimization Framework for Minimizing Rule Update Latency in SDN Switches", *ZTE Communications*, Volume 16, Issue 4, (2018): 15-29. DOI: 10.19729/j.cnki.1673-5188.2018.04.001
 
-  5. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in *ACM/IEEE Transaction on Networking* (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360.
+  5. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in *ACM/IEEE Transaction on Networking* (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360. (**CCF A**)
 
 **专利**：
   1. **冷雪**，陈焰，侯开宇，卜凯，李星。一种软件定义网络下基于策略语言的云端网络资源管理控制系统[P]，中国，201810159706.0（实质审查，公告日：2018/08/03）
@@ -301,7 +309,7 @@ title: 简历
 		<td align="right">&nbsp;</td>
 	</tr>
 	<tr>
-		<td align="left">&emsp;&emsp;&emsp;----内蒙古赤峰市临西县</td>
+		<td align="left">&emsp;&emsp;&emsp;----内蒙古赤峰市林西县</td>
 		<td align="right">2012.7</td>
 	</tr>
 	<tr>
@@ -314,4 +322,4 @@ title: 简历
 	</tr>
 </table>
 
-<a href="http://www.lengxue.me/images/leng/resume/cv_Chinese.pdf">下载PDF</a>
+<a href="http://www.lengxue.me/images/leng/resume/Lengxue_CV_chinese.pdf">下载PDF</a>
