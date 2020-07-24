@@ -37,7 +37,7 @@ title: 简历
 	</tr>
 	<tr>
 		<td align="left"><ul><li><strong>美国西北大学</strong>&emsp;电子工程与计算机科学学院&emsp;<strong>访问学者</strong></li></ul></td>
-		<td align="right" rowspan="2" style="vertical-align:text-top">2018.10&nbsp;-&nbsp;2019.06</td>
+		<td align="right" rowspan="2" style="vertical-align:text-top">2018.10&nbsp;-&nbsp;2019.6</td>
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;&emsp;&emsp;<strong>研究方向：</strong>&nbsp;SDN网络安全性与可靠性研究 &emsp;&emsp;&emsp;&emsp;<strong>导&emsp;师：</strong>&nbsp;Hai Zhou</td>
