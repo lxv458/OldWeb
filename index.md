@@ -149,7 +149,7 @@ title: Resume
 <table>
   <tr>
     <td align="left"><ul><li>The 13th Five-year,&nbsp;<strong>National Key R&amp;D Program of China</strong>, Special of Cyberspace Security</li></ul></td>
-    <td align="right" rowspan="3" style="vertical-align: text-top" width="200px">Jul. 2017&nbsp;-&nbsp;Dec. 2020</td>
+    <td align="right" rowspan="3" style="vertical-align: text-top" width="200px">Jul. 2017&nbsp;-&nbsp;Jun. 2020</td>
   </tr>
   <tr>
     <td align="left">&emsp;&emsp;----Responsible for project application and implementation as a core member</td>
