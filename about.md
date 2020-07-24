@@ -146,7 +146,7 @@ title: 简历
 <table>
 	<tr>
 		<td align="left"><ul><li>十三五&emsp;<strong>国家重点研发计划</strong>&emsp;网络空间安全专项</li></ul></td>
-		<td align="right" rowspan="4" style="vertical-align: text-top">2017.7&nbsp;-&nbsp;2020.12</td>
+		<td align="right" rowspan="4" style="vertical-align: text-top">2017.7&nbsp;-&nbsp;2020.6</td>
 	</tr>
 	<tr>
 		<td align="left">&emsp;&emsp;----作为核心成员负责项目(课题)的申请及实施</td>
