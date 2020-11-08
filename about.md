@@ -139,7 +139,7 @@ title: 简历
   5. Xitao Wen, Kai Bu, Bo Yang, Yan Chen, Li Erran Li, Xiaolin Chen, Jianfeng Yang, and **Xue Leng**. "RuleScope: Inspecting Forwarding Faults for Software-Defined Networking", in *ACM/IEEE Transaction on Networking* (**ToN**), Volume 25, Issue 4, Aug. 2017: 2347-2360. (**CCF A**)
 
 **专利**：
-  1. **冷雪**，陈焰，侯开宇，卜凯，李星。一种软件定义网络下基于策略语言的云端网络资源管理控制系统[P]，中国，201810159706.0（实质审查，公告日：2018/08/03）
+  1. **冷雪**，陈焰，侯开宇，卜凯，李星。一种软件定义网络下基于策略语言的云端网络资源管理控制系统[P]，中国，201810159706.0（已授权，公告日：2018/08/03）
   2. 陈焰、于银菠、李星、卜凯、杨剑锋、**冷雪**。基于差分检测的控制平面故障诊断系统及其实现方法[P]，中国，201910204272.6（已授权，公告日：2020/06/04）
 
 ### 项目经历
